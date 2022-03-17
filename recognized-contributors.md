@@ -12,12 +12,27 @@ Butcher, Matt (technosophos)
 
 ## F-J
 
+Hardock, Brian (fibonnaci1729)
+Hayes, Bailey (ricochet)
+Huene, Peter (peterhuene)
+
 ## K-O
+
+Kulakowski, George (kulakowski-wasm)
+Matei, Radu (radu-matei)
+McCallum, Nathaniel (npmmcallum)
+Noorali, Michelle (michelleN)
 
 ## P-T
 
+Thomas, Taylor (thomastaylor312)
 Schneidereit, Till (tschneidereit)
+Squillace, Ralph (squillace)
+Sverre, Carl (carlsverre)
 
 ## U-Z
 
+Volosatovd, Roman ()
+Wagner, Luke (lukewagner)
 Wang Xin (xwang98)
+Woods, Will (wgwoods)
