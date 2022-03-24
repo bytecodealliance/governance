@@ -4,7 +4,7 @@ I am nominating or self-nominating a [Recognized Contributor](https://github.com
 **GitHub Username:** USERNAME
 **Projects/SIGs:**
 <!-- 
-List projects or SIGs this person is affiliated with.
+List projects or SIGs this person is affiliated with, if any.
 Note that an individual is not required to be affiliated
 with a project before becoming an RC
 -->
