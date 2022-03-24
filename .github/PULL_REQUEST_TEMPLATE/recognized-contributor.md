@@ -11,7 +11,7 @@ with a project before becoming an RC
 - PROJECT OR SIG NAME
 
 ## Nomination
-In 2-5 sentences, describe this person's activity within BytecodeAlliance. Examples include SIG activity, project contributions.
+In 2-5 sentences, describe this person's activity within the Bytecode Alliance. Examples include SIG activity, project contributions, and supporting Bytecode Alliance-wide initiatives.
 
 ## Optional: Endorsements
 <!--
