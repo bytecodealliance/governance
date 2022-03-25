@@ -32,7 +32,7 @@ Sverre, Carl (@carlsverre)
 
 ## U-Z
 
-Volosatovd, Roman (@rvolosatovs)
+Volosatovs, Roman (@rvolosatovs)
 Wagner, Luke (@lukewagner)
 Wang Xin (@xwang98)
 Woods, Will (@wgwoods)
