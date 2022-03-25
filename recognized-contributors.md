@@ -20,7 +20,7 @@ Huene, Peter (@peterhuene)
 
 Kulakowski, George (@kulakowski-wasm)
 Matei, Radu (@radu-matei)
-McCallum, Nathaniel (@npmmcallum)
+McCallum, Nathaniel (@npmccallum)
 Noorali, Michelle (@michelleN)
 
 ## P-T
