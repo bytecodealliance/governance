@@ -12,7 +12,7 @@ Butcher, Matt (@technosophos)
 
 ## F-J
 
-Hardock, Brian (@fibonnaci1729)
+Hardock, Brian (@fibonacci1729)
 Hayes, Bailey (@ricochet)
 Huene, Peter (@peterhuene)
 
