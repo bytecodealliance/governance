@@ -16,16 +16,30 @@ Butcher, Matt (technosophos)
 
 Galli, Enrico (@egalli)  
 Jones, Brian J (@brianjjones)  
+Hardock, Brian (@fibonacci1729)
+Hayes, Bailey (@ricochet)
+Huene, Peter (@peterhuene)
 
 ## K-O
+
+Kulakowski, George (@kulakowski-wasm)
+Matei, Radu (@radu-matei)
+McCallum, Nathaniel (@npmccallum)
+Noorali, Michelle (@michelleN)
 
 ## P-T
 
 Penzin, Petr (@penzn)  
 Schneidereit, Till (tschneidereit)  
 Schoettler, Steve (@stevelr)  
-Sun, Mingqiu (@mingqiusun)  
+Thomas, Taylor (@thomastaylor312)
+Schneidereit, Till (@tschneidereit)
+Squillace, Ralph (@squillace)
+Sun, Mingqiu (@mingqiusun)
+Sverre, Carl (@carlsverre)
 
 ## U-Z
 
-Wang Xin (xwang98)
+Volosatovs, Roman (@rvolosatovs)
+Wagner, Luke (@lukewagner)
+Wang Xin (@xwang98)
