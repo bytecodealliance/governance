@@ -30,7 +30,6 @@ Noorali, Michelle (@michelleN)
 ## P-T
 
 Penzin, Petr (@penzn)  
-Schneidereit, Till (tschneidereit)  
 Schoettler, Steve (@stevelr)  
 Thomas, Taylor (@thomastaylor312)
 Schneidereit, Till (@tschneidereit)
