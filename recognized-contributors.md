@@ -8,10 +8,13 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 
 ## A-E
 
-Butcher, Matt (@technosophos)
+Birch Jr, Johnnie L (@jlb6740)  
+Brown, Andrew (@abrown)  
 
 ## F-J
 
+Galli, Enrico (@egalli)  
+Jones, Brian J (@brianjjones)  
 Hardock, Brian (@fibonacci1729)
 Hayes, Bailey (@ricochet)
 Huene, Peter (@peterhuene)
@@ -25,9 +28,12 @@ Noorali, Michelle (@michelleN)
 
 ## P-T
 
+Penzin, Petr (@penzn)  
+Schoettler, Steve (@stevelr)  
 Thomas, Taylor (@thomastaylor312)
 Schneidereit, Till (@tschneidereit)
 Squillace, Ralph (@squillace)
+Sun, Mingqiu (@mingqiusun)
 Sverre, Carl (@carlsverre)
 
 ## U-Z
