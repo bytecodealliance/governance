@@ -10,6 +10,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 
 Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))  
 Brown, Andrew ([@abrown](https://github.com/abrown))  
+Butcher, Matt ([@technosophos](https://github.com/technosophos))  
 
 ## F-J
 
