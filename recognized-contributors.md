@@ -8,36 +8,36 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 
 ## A-E
 
-Birch Jr, Johnnie L (@jlb6740)  
-Brown, Andrew (@abrown)  
+Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))  
+Brown, Andrew ([@abrown](https://github.com/abrown))  
 
 ## F-J
 
-Galli, Enrico (@egalli)  
-Jones, Brian J (@brianjjones)  
-Hardock, Brian (@fibonacci1729)
-Hayes, Bailey (@ricochet)
-Huene, Peter (@peterhuene)
+Galli, Enrico ([@egalli](https://github.com/egalli))  
+Jones, Brian J ([@brianjjones](https://github.com/brianjjones))  
+Hardock, Brian ([@fibonacci1729](https://github.com/fibonacci1729))  
+Hayes, Bailey ([@ricochet](https://github.com/ricochet))  
+Huene, Peter ([@peterhuene](https://github.com/peterhuene))  
 
 ## K-O
 
-Kulakowski, George (@kulakowski-wasm)
-Matei, Radu (@radu-matei)
-McCallum, Nathaniel (@npmccallum)
-Noorali, Michelle (@michelleN)
+Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))  
+Matei, Radu ([@radu](https://github.com/radu-matei))  
+McCallum, Nathaniel ([@npmccallum](https://github.com/npmccallum))  
+Noorali, Michelle ([@michelleN](https://github.com/michelleN))  
 
 ## P-T
 
-Penzin, Petr (@penzn)  
-Schoettler, Steve (@stevelr)  
-Thomas, Taylor (@thomastaylor312)
-Schneidereit, Till (@tschneidereit)
-Squillace, Ralph (@squillace)
-Sun, Mingqiu (@mingqiusun)
-Sverre, Carl (@carlsverre)
+Penzin, Petr ([@penzn](https://github.com/penzn))  
+Schoettler, Steve ([@stevelr](https://github.com/stevelr))  
+Thomas, Taylor ([@thomastaylor312](https://github.com/thomastaylor312))  
+Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))  
+Squillace, Ralph ([@squillace](https://github.com/squillace))  
+Sun, Mingqiu ([@mingqiusun](https://github.com/mingqiusun))  
+Sverre, Carl ([@carlsverre](https://github.com/carlsverre))  
 
 ## U-Z
 
-Volosatovs, Roman (@rvolosatovs)
-Wagner, Luke (@lukewagner)
-Wang Xin (@xwang98)
+Volosatovs, Roman ([@rvolosatovs](https://github.com/rvolosatovs))  
+Wagner, Luke ([@lukewagner](https://github.com/lukewagner))  
+Wang Xin ([@xwang98](https://github.com/xwang98))  
