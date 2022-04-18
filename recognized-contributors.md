@@ -18,6 +18,10 @@ Galli, Enrico ([@egalli](https://github.com/egalli))
 Jones, Brian J ([@brianjjones](https://github.com/brianjjones))  
 Hardock, Brian ([@fibonacci1729](https://github.com/fibonacci1729))  
 Hayes, Bailey ([@ricochet](https://github.com/ricochet))  
+He Jie ([@jhe33](https://github.com/jhe33))  
+He Liang ([@lum1n0us](https://github.com/lum1n0us)) 
+Huang Qi ([@no1wudi](https://github.com/no1wudi))  
+Huang Wenyong ([@wenyongh](https://github.com/wenyongh))  
 Huene, Peter ([@peterhuene](https://github.com/peterhuene))  
 
 ## K-O
@@ -30,15 +34,22 @@ Noorali, Michelle ([@michelleN](https://github.com/michelleN))
 ## P-T
 
 Penzin, Petr ([@penzn](https://github.com/penzn))  
+Qin Xiaokang ([@qinxk-inter](https://github.com/qinxk-inter))  
 Schoettler, Steve ([@stevelr](https://github.com/stevelr))  
 Thomas, Taylor ([@thomastaylor312](https://github.com/thomastaylor312))  
 Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))  
 Squillace, Ralph ([@squillace](https://github.com/squillace))  
 Sun, Mingqiu ([@mingqiusun](https://github.com/mingqiusun))  
 Sverre, Carl ([@carlsverre](https://github.com/carlsverre))  
+Tang Wei ([@wei-tang](https://github.com/wei-tang))
 
 ## U-Z
 
 Volosatovs, Roman ([@rvolosatovs](https://github.com/rvolosatovs))  
 Wagner, Luke ([@lukewagner](https://github.com/lukewagner))  
+Wang Ning ([@wustwn](https://github.com/wustwn))  
 Wang Xin ([@xwang98](https://github.com/xwang98))  
+Wu Zhongmin ([@sophy228](https://github.com/sophy228))  
+Xu Jun ([@xujuntwt95329](https://github.com/xujuntwt95329))  
+Xu Xiong([@venus-taibai](https://github.com/venus-taibai))  
+Zang Lin ([@linzang](https://github.com/linzang))  
