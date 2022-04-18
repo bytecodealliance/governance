@@ -14,6 +14,7 @@ Bouvier, Benjamin ([@bnjbvr](https://github.com/bnjbvr))
 Brown, Andrew ([@abrown](https://github.com/abrown))  
 Butcher, Matt ([@technosophos](https://github.com/technosophos))  
 Cabrera, Javier ([@Jacarte](https://github.com/Jacarte))  
+Clark, Lin ([@linclark](https://github.com/linclark))  
 Crichton, Alex ([@alexcrichton](https://github.com/alexcrichton))  
 
 ## F-J
@@ -27,6 +28,7 @@ Hardock, Brian ([@fibonacci1729](https://github.com/fibonacci1729))
 Hayes, Bailey ([@ricochet](https://github.com/ricochet))  
 Heaton, Damian ([@dheaton-arm](https://github.com/dheaton-arm))  
 Hickey, Pat ([@pchickey](https://github.com/pchickey))  
+Holley, Bobby ([@bholley](https://github.com/bholley))  
 Hoyer, Harald ([@haraldh](https://github.com/haraldh))  
 Huene, Peter ([@peterhuene](https://github.com/peterhuene))  
 iximeow ([@iximeow](https://github.com/iximeow))  
@@ -51,7 +53,9 @@ Squillace, Ralph ([@squillace](https://github.com/squillace))
 Sun, Mingqiu ([@mingqiusun](https://github.com/mingqiusun))  
 Sverre, Carl ([@carlsverre](https://github.com/carlsverre))  
 Thomas, Taylor ([@thomastaylor312](https://github.com/thomastaylor312))  
+Triplett, Josh ([@joshtriplett](https://github.com/joshtriplett))  
 Turner, Aaron ([@torch2424](https://github.com/torch2424))  
+Turon, Aaron ([@aturon](https://github.com/aturon))  
 
 ## U-Z
 
