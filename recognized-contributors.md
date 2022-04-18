@@ -25,7 +25,7 @@ Galli, Enrico ([@egalli](https://github.com/egalli))
 Gohman, Dan ([@sunfishcode](https://github.com/sunfishcode))  
 Hardock, Brian ([@fibonacci1729](https://github.com/fibonacci1729))  
 Hayes, Bailey ([@ricochet](https://github.com/ricochet))  
-Heaton, Damian ([@dheaton](https://github.com/dheaton-arm))  
+Heaton, Damian ([@dheaton-arm](https://github.com/dheaton-arm))  
 Hickey, Pat ([@pchickey](https://github.com/pchickey))  
 Huene, Peter ([@peterhuene](https://github.com/peterhuene))  
 iximeow ([@iximeow](https://github.com/iximeow))  
@@ -33,7 +33,7 @@ Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
 
 ## K-O
 
-Kirilov, Anton ([@akirilov](https://github.com/akirilov-arm))  
+Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))  
 Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))  
 Matei, Radu ([@radu](https://github.com/radu-matei))  
 McCallum, Nathaniel ([@npmccallum](https://github.com/npmccallum))  
@@ -41,7 +41,7 @@ Noorali, Michelle ([@michelleN](https://github.com/michelleN))
 
 ## P-T
 
-Parker, Sam ([@sparker](https://github.com/sparker-arm))  
+Parker, Sam ([@sparker-arm](https://github.com/sparker-arm))  
 Penzin, Petr ([@penzn](https://github.com/penzn))  
 Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))  
 Schoettler, Steve ([@stevelr](https://github.com/stevelr))  
