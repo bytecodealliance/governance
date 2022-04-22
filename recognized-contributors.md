@@ -32,6 +32,7 @@ Holley, Bobby ([@bholley](https://github.com/bholley))
 Hoyer, Harald ([@haraldh](https://github.com/haraldh))  
 Huene, Peter ([@peterhuene](https://github.com/peterhuene))  
 iximeow ([@iximeow](https://github.com/iximeow))  
+Johnson, Evan ([@enjhnsn2](https://github.com/enjhnsn2))  
 Jones, Brian J ([@brianjjones](https://github.com/brianjjones))  
 
 ## K-O
@@ -41,6 +42,7 @@ Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))
 martin, katelyn ([@cratelyn](https://github.com/cratelyn))  
 Matei, Radu ([@radu](https://github.com/radu-matei))  
 McCallum, Nathaniel ([@npmccallum](https://github.com/npmccallum))  
+Narayan, Shravan ([@shravanrn](https://github.com/shravanrn))  
 Noorali, Michelle ([@michelleN](https://github.com/michelleN))  
 
 ## P-T
@@ -50,6 +52,7 @@ Penzin, Petr ([@penzn](https://github.com/penzn))
 Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))  
 Schoettler, Steve ([@stevelr](https://github.com/stevelr))  
 Squillace, Ralph ([@squillace](https://github.com/squillace))  
+Stefan, Deian ([@deian](https://github.com/deian))  
 Sun, Mingqiu ([@mingqiusun](https://github.com/mingqiusun))  
 Sverre, Carl ([@carlsverre](https://github.com/carlsverre))  
 Thomas, Taylor ([@thomastaylor312](https://github.com/thomastaylor312))  
