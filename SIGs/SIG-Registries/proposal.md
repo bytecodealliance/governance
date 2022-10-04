@@ -16,7 +16,6 @@ The following individuals support the creation of SIG-Registries:
 - Radu Matei (Fermyon) 
 - Ralph Squillace (Microsoft) 
 - Nathaniel McCallum (Profian) 
-- Will Woods (Profian) 
 - Brian Hardock (Fermyon) 
 - Peter Huene (Fastly) 
 - Luke Wagner (Fastly)
