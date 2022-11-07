@@ -47,6 +47,7 @@ Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
 ## K-O
 
 Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))  
+Kolny, Marcin ([@loganek](https://github.com/loganek))  
 Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))  
 martin, katelyn ([@cratelyn](https://github.com/cratelyn))  
 Matei, Radu ([@radu](https://github.com/radu-matei))  
