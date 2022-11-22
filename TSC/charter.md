@@ -6,9 +6,9 @@ This document outlines the role, scope, and composition of the Bytecode Alliance
 
 ## Role
 
-The Bytecode Alliance Foundation (“BA”) Technical Steering Committee (“TSC”) is a committee established by the BA’s Board of Directors (“Board”) to act as the top-level governing body for projects and Special Interest Groups hosted by the BA, and to ensure that they further the BA’s [mission](https://bytecodealliance.org/mission), and are conducted in accordance with the BA’s [values and principles](https://bytecodealliance.org/mission#values).
+The Bytecode Alliance Foundation (“BA”) Technical Steering Committee (“TSC”) is a committee established by the BA’s Board of Directors (“Board”) to act as the top-level governing body for projects and Special Interest Groups hosted by the BA, to ensure that they further the BA’s [mission](https://bytecodealliance.org/mission), and to ensure that they are conducted in accordance with the BA’s [values and principles](https://bytecodealliance.org/mission#values).
 
-The TSC operates in accordance with this Charter, material[^1] changes to which require approval by the Board per section 4.11.c.x of the BA’s [bylaws](https://bytecodealliance.org/assets/bylaws.pdf). Changes to this document are proposed via GitHub Pull Requests, where they can be discussed. To ensure interested parties can comment on them, material changes will be kept open for a time. The deadline for input will be listed in the Pull Request, but is recommended to be no less than 10 days unless the board concludes there is a strong reason to do otherwise Any input will be considered and where seen as valid by the board reflected in changes to the Pull Request before merging.
+The TSC operates in accordance with this Charter, material[^1] changes to which require approval by the Board per section 4.11.c.x of the BA’s [bylaws](https://bytecodealliance.org/assets/bylaws.pdf). Changes to this document are proposed via GitHub Pull Requests, where they can be discussed. To ensure interested parties can comment on them, material changes will be kept open for a time. The deadline for input will be listed in the Pull Request, but is recommended to be no less than 10 days unless the board concludes there is a strong reason to do otherwise. Any input will be considered and where seen as valid by the board reflected in changes to the Pull Request before merging.
 
 At any point, the operational version of the charter is the one in the governance repository’s default branch.
 
@@ -52,11 +52,9 @@ The TSC will provide both formal and informal channels for fostering communicati
 
 * Conflict resolution across projects, and, when necessary, within a project.
 
-### Organizing and overseeing formal governance processes such as elections
+### Formal governance responsibilities
 
 Per the BA [bylaws](https://bytecodealliance.org/assets/bylaws.pdf), the TSC is tasked with multiple aspects of community representation:
-
-* Defining the process for nominating the At-Large Director per sections 4.4.b.iii and 4.4.d
 
 * Nominating the TSC Director per section 4.4.b.iii
 
@@ -64,23 +62,19 @@ Per the BA [bylaws](https://bytecodealliance.org/assets/bylaws.pdf), the TSC is 
 
 * Establishing the Recognized Contributors Program per section 5.5.c
 
-* Defining the process by which the RC Program Chair is determined per section 5.5.c
-
-* Oversee the elections of Recognized Contributors and Hosted Project Delegates to the TSC
-
 ### Determining a member of the TSC to serve as the TSC Chair
 
-Per section 5.5.b of the BA bylaws, the TSC is led by a TSC Chair. The TSC Chair leads the TSC, ensures that the TSC meets at a regular cadence, and runs those meetings.
+Per section 5.5.b of the BA bylaws, the TSC is led by a TSC Chair. The TSC Chair leads the TSC, ensures that the TSC meets at a regular cadence, runs those meetings, and manages the RC program.
 
-The TSC Chair is chosen by a simple majority vote of then-serving members of the TSC, Condorcet-IRV method through the [Cornell online service](https://civs.cs.cornell.edu/) and serves for terms of two years without term limits.
+The TSC Chair is chosen by the members of the TSC. Selection begins by nominating candidates from the current TSC members. Unopposed candidates are seated by default. If there are multiple candidates, the contest is decided by a vote using the Condorcet-IRV method through the [Cornell online service](https://civs.cs.cornell.edu/).
 
-In the event that the TSC Chair position becomes vacant, the TSC will organize a vote for a full new term at the earliest possibility.
+The selection process runs whenever the TSC composition changes, the Chair steps down, or the current Chair’s tenure reaches a multiple of two years.
 
 ### Nominating the TSC Director to represent the TSC to the Board of Directors
 
 The TSC Director acts as liaison between the Board of Directors and the TSC, both representing the TSC to the Board and updating the TSC on Board matters of relevance to the TSC.
 
-Per section 5.5.b of the BA [bylaws](https://bytecodealliance.org/assets/bylaws.pdf), the TSC determines the process of choosing the nominee for the role of TSC Director. For the time being, the role of TSC Director shall be filled by the TSC Chair.
+Per section 5.5.b of the BA [bylaws](https://bytecodealliance.org/assets/bylaws.pdf), the TSC determines the process of choosing the nominee for the role of TSC Director. In the absence of a defined process, the role of TSC Director shall be filled by the TSC Chair.
 
 ### Defining minimum standards and framework for project or group operations (e.g. voting, formal roles, etc.)
 
@@ -106,37 +100,19 @@ The TSC is composed of project representatives and individuals elected by [Recog
 
 The way TSC members are determined differs by the type of representation:
 
-* Each Core Project determines, by a process of its choosing, a delegate to represent the project to the TSC
+* The Recognized Contributors elect 3 TSC delegates
 
-* The maintainers of all Hosted Projects elect a number of TSC delegates equal to the smaller of either (A) half of those representing Core Projects (rounded upwards) or (B) the total number of Hosted Projects
-
-* The Recognized Contributors elect a number of TSC delegates equal to those representing Core Projects
-
-* Until the minimum TSC size of 5 delegates is not reached, the number of delegates elected by the maintainers of all Hosted Projects and the Recognized Contributors will in turn be increased by one each until the minimum size is reached. This process ends as soon as the minimum size is reached
-
-As an example, if the BA hosts 2 Core Projects, the composition of the TSC would be such:
-
-* 2 Core Project Delegates
-
-* 1 Hosted Project Delegate
-
-* 2 Recognized Contributor Delegates
+* Each Core Project appoints, by a process of its choosing, a delegate to represent the project to the TSC
 
 There are no required entry qualifications for someone to be a TSC delegate—projects and Recognized Contributors are free to determine/elect delegates of their choosing without constraints beyond being in good standing with the BA and community.
 
 The TSC operates on a two-year term cycle. An individual may be reelected or renominated to serve multiple terms.
 
-The TSC organizes elections for delegates representing Hosted Projects and Recognized Contributors using [Condorcet-IRV](https://civs1.civs.us/rp.html#runoff) method through the [Cornell online service](https://civs.cs.cornell.edu/).
-
-When a new project is adopted or changes status from Hosted to Core Project, the project’s maintainers can immediately determine a delegate to the TSC, who will then serve out the remainder of the current 2 year term.
+When a new project is adopted or changes status from Hosted to Core Project, the project’s maintainers can immediately appoint a delegate to the TSC, who will then serve out the remainder of the current 2 year term.
 
 When a project moves from Core to Hosted status, or stops being a hosted project altogether, its direct representation to the TSC ends with the change in status.
 
 If a project is adopted or changes tier during a vote, the vote will be concluded before any changes to voting members are made.
-
-If an increase in Core Project delegates makes an increase in Hosted Project Delegates necessary, the TSC will organize a special election for the additionally required Delegates for Hosted representation to serve out the remainder of the current 2 year term.
-
-If a decrease in Core Project delegates makes a decrease in Hosted Project Delegates necessary, the TSC will organize a process by which the Hosted Projects determine which of their Delegates step down.
 
 The TSC should strive to attain balance of representation, not giving undue control to a single company. Future revisions to the charter may define mechanisms by which this balance is attained.
 
@@ -202,7 +178,7 @@ The process for merging or closing such a Pull Request is as follows:
 
 While membership in the RC Program doesn’t require active renewal, the TSC will from time to time, and at least before elections to the TSC or for the At-Large Director positions evaluate the list of current RCs to determine whether all members are still actively involved. Since the principal duty of an RC is to participate in the BA’s governance, voting in the relevant elections is considered a requirement for retaining RC status in addition to active involvement. An RC might be determined inactive if they fail to vote in 2 or more consecutive elections, and would have to be nominated again to regain RC status. If any current members are determined not to be active anymore, the TSC will at a meeting ratify (or modify) this determination and then update the list accordingly.
 
-The RC Program and the first round of elections to the TSC through this program will be established and run by a bootstrapping TSC.
+The RC Program will be established and run by a bootstrapping task force appointed by the board (proto-TSC) until the first TSC election.
 
 # Special Interest Groups
 
