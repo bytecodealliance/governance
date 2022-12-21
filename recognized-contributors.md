@@ -48,6 +48,7 @@ Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
 
 Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))  
 Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))  
+Liang Tianlong[@TianlongLiang](https://github.com/TianlongLiang)  
 martin, katelyn ([@cratelyn](https://github.com/cratelyn))  
 Matei, Radu ([@radu](https://github.com/radu-matei))  
 McCallum, Nathaniel ([@npmccallum](https://github.com/npmccallum))  
