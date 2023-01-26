@@ -18,6 +18,7 @@ Cabrera, Saúl ([@saulecabrera](https://github.com/saulecabrera))
 Clark, Lin ([@linclark](https://github.com/linclark))  
 Crichton, Alex ([@alexcrichton](https://github.com/alexcrichton))  
 Delendik, Yury ([@yurydelendik](https://github.com/yurydelendik))  
+Dice, Joel ([@dicej](https://github.com/dicej))  
 Ene, Alexandru ([@AlexEne](https://github.com/AlexEne))  
 
 ## F-J
