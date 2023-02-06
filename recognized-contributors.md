@@ -43,6 +43,7 @@ Hunt, Ryan ([@eqrion](https://github.com/eqrion))
 iximeow ([@iximeow](https://github.com/iximeow))  
 Johnson, Evan ([@enjhnsn2](https://github.com/enjhnsn2))  
 Jones, Brian J ([@brianjjones](https://github.com/brianjjones))  
+
 ## K-O
 
 Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))  
