@@ -11,6 +11,7 @@ The group will maintain lists of dynamic language guest projects, common foundat
 
 The following individuals support the creation of $SIG_NAME:
 
+* Bedford, Guy (Fastly)
 * Brown, Kyle (SingleStore)
 * Cabrera, Saúl (Shopify)
 * Chiarlone, Dan (Microsoft)
