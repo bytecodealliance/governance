@@ -14,6 +14,7 @@ The following individuals support the creation of $SIG_NAME:
 * Bedford, Guy (Fastly)
 * Brown, Kyle (SingleStore)
 * Cabrera, Saúl (Shopify)
+* Cannon, Brett (Microsoft)
 * Chiarlone, Dan (Microsoft)
 * Dice, Joel (Fermyon)
 * Huene, Peter (Fastly)
