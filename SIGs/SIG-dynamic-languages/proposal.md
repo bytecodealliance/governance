@@ -23,4 +23,5 @@ The following individuals support the creation of $SIG_NAME:
 * Prewitt, Calvin (JAF Labs)
 * Schneidereit, Till (Fermyon)
 * Vetere, Peter (SingleStore)
+* Wagner, Luke (Fastly)
 
