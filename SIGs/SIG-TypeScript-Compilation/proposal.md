@@ -6,7 +6,7 @@ SIG-TypeScript-Compilation's primary goal is to describe and refine a suitable s
 
 While it is not an express goal of the group, it is understood that in the process of designing, the group will produce proof-of-concept code.   
 
-As deliverables of the SIG, the group will produce Notes describing the scope of supported TS language, the compilation methods, the runtime APIs and proposal for WebAssembly spec. Should the TSC accept these Notes, the SIG will refine them into a position or recommendation. 
+As deliverables of the SIG, the group will produce Notes describing the scope of supported TS language features, the compilation methods, the runtime API defintions, and new proposals for WebAssembly or WASI spec. Should the TSC accept these Notes, the SIG will refine them into a position or recommendation. 
 
 Should the code artifacts prove generally useful, the SIG may also approach the TSC about turning one or more of these efforts into a Core or At Large Project. As part of this process, the SIG will delegate some or all of its participants as maintainers of any code that will continue development after the SIG is complete. 
 
