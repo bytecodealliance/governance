@@ -2,7 +2,7 @@
 
 This document is a proposal to create SIG-TypeScript-Compilation as a formal Special Interest Group (SIG) under the auspices of the TSC of the Bytecode Alliance, as specified in the TSC’s charter. 
 
-SIG-TypeScript-Compilation's primary goal is to describe and refine a suitable solution for compiling TypeScript program code to WebAssembly based on the Wasm GC proposal and executing it in both browser and standalone Wasm runtime. The scope of this SIG is limited to discussions about compiling TS to WebAssembly, the neccessary runtime API (potentially defined as WASI) for supporting TS language features such as `Any` type, and exploration of how WebAssembly can grow to provide better support of dynamic languages natively.
+SIG-TypeScript-Compilation's primary goal is to describe and refine a suitable solution for compiling TypeScript program to WebAssembly based on the Wasm GC proposal and executing it in both browser and standalone Wasm runtime. The scope of this SIG is limited to discussions about compiling TS to WebAssembly, the neccessary runtime API (potentially defined as WASI) for supporting TS language features such as `Any` type, and exploration of how WebAssembly can grow to provide better support of dynamic languages natively.
 
 While it is not an express goal of the group, it is understood that in the process of designing, the group will produce proof-of-concept code.   
 
@@ -15,7 +15,7 @@ Should the code artifacts prove generally useful, the SIG may also approach the 
 The following individuals support the creation of SIG-TypeScript-Compilation: 
 - Dong Junjie [@coderebot](https://github.com/coderebot) (Xiaomi)  
 - Fan Shaogui [@GreatFan](https://github.com/GreatFan) (ByteDance)  
-- He Jie ([@jhe33](https://github.com/jhe33) (Alibaba/Ant)   
+- He Jie [@jhe33](https://github.com/jhe33) (Alibaba/Ant)   
 - Huang Qi [@no1wudi](https://github.com/no1wudi) (Xiaomi)  
 - Huang Wenyong [@wenyongh](https://github.com/wenyongh) (Intel)  
 - Squillace, Ralph [@squillace](https://github.com/squillace) (Microsoft)
