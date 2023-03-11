@@ -1,6 +1,6 @@
 # Recognized Contributors
 
-The following is a list of [Recognized Contributors](https://github.com/technosophos/governance/blob/main/TSC/charter.md#recognized-contributors), ordered by last name. Recognized Contributors carry certain roles and responsibilities in the Bytecode Alliance, including (but not limited to) voting in various Bytecode Alliance elections.
+The following is a list of [Recognized Contributors](https://github.com/bytecodealliance/governance/blob/main/TSC/charter.md#recognized-contributors), ordered by last name. Recognized Contributors carry certain roles and responsibilities in the Bytecode Alliance, including (but not limited to) voting in various Bytecode Alliance elections.
 
 To nominate a new Recognized Contributor, make a pull request adding the candidate to this list, and then choose and complete the `recognized-contributor` pull request template. _Self-nominations are allowed._
 
@@ -10,6 +10,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 
 Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))  
 bjorn3 ([@bjorn3](https://github.com/bjorn3))  
+Bordado, Afonso ([@afonso360](https://github.com/afonso360))  
 Bouvier, Benjamin ([@bnjbvr](https://github.com/bnjbvr))  
 Brown, Andrew ([@abrown](https://github.com/abrown))  
 Butcher, Matt ([@technosophos](https://github.com/technosophos))  
@@ -18,6 +19,8 @@ Cabrera, Saúl ([@saulecabrera](https://github.com/saulecabrera))
 Clark, Lin ([@linclark](https://github.com/linclark))  
 Crichton, Alex ([@alexcrichton](https://github.com/alexcrichton))  
 Delendik, Yury ([@yurydelendik](https://github.com/yurydelendik))  
+Dice, Joel ([@dicej](https://github.com/dicej))  
+Elliott, Trevor ([@elliottt](https://github.com/elliottt))  
 Ene, Alexandru ([@AlexEne](https://github.com/AlexEne))  
 
 ## F-J
@@ -49,6 +52,7 @@ Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
 Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))  
 Kolny, Marcin ([@loganek](https://github.com/loganek))  
 Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))  
+Liang Tianlong[@TianlongLiang](https://github.com/TianlongLiang)  
 martin, katelyn ([@cratelyn](https://github.com/cratelyn))  
 Matei, Radu ([@radu](https://github.com/radu-matei))  
 McCallum, Nathaniel ([@npmccallum](https://github.com/npmccallum))  
@@ -62,6 +66,8 @@ Penzin, Petr ([@penzn](https://github.com/penzn))
 Qin Xiaokang ([@qinxk-inter](https://github.com/qinxk-inter))  
 Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))  
 Schoettler, Steve ([@stevelr](https://github.com/stevelr))  
+Sharp, Jamey ([@jameysharp](https://github.com/jameysharp))  
+Sinclair, Rainy ([@itsrainy](https://github.com/itsrainy))  
 Spencer, Oscar ([@ospencer](https://github.com/ospencer))  
 Squillace, Ralph ([@squillace](https://github.com/squillace))  
 Stefan, Deian ([@deian](https://github.com/deian))  
@@ -86,4 +92,5 @@ Wu Zhongmin ([@sophy228](https://github.com/sophy228))
 Xu Jun ([@xujuntwt95329](https://github.com/xujuntwt95329))  
 Xu Xiong([@venus-taibai](https://github.com/venus-taibai))  
 YAMAMOTO Takashi ([@yamt](https://github.com/yamt))  
+Yan Dongsheng[@dongsheng28849455](https://github.com/dongsheng28849455)  
 Zang Lin ([@linzang](https://github.com/linzang))  
