@@ -18,6 +18,7 @@ The following individuals support the creation of SIG-TypeScript-Compilation:
 - He Jie [@jhe33](https://github.com/jhe33) (Alibaba/Ant)   
 - Huang Qi [@no1wudi](https://github.com/no1wudi) (Xiaomi)  
 - Huang Wenyong [@wenyongh](https://github.com/wenyongh) (Intel)  
+- Jin Zhenwei [@zhenweijin](https://github.com/zhenweijin) (Intel)  
 - Squillace, Ralph [@squillace](https://github.com/squillace) (Microsoft)
 - Vivek, Sekhar [@vsekhar](https://github.com/vsekhar) (Google)
 - Wang Xin [@xwang98](https://github.com/xwang98) (Intel)  
@@ -25,4 +26,5 @@ The following individuals support the creation of SIG-TypeScript-Compilation:
 - Xu Jun [@xujuntwt95329](https://github.com/xujuntwt95329) (Intel)  
 - Yao Zhongxiao [@yaozhongxiao](https://github.com/yaozhongxiao) (ByteDance)  
 - Zhang Di [@Zzzode](https://github.com/Zzzode) (ByteDance)  
+- Su Yihan [@yviansu](https://github.com/yviansu) (Intel)  
 
