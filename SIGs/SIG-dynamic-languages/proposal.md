@@ -9,7 +9,7 @@ The group will maintain lists of dynamic language guest projects, common foundat
 
 ## Supporting Members
 
-The following individuals support the creation of $SIG_NAME:
+The following individuals support the creation of SIG-dynamic-laguages
 
 * Bedford, Guy (Fastly)
 * Brown, Kyle (SingleStore)
