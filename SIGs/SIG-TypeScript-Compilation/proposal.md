@@ -13,6 +13,7 @@ Should the code artifacts prove generally useful, the SIG may also approach the 
 ## Supporting Members 
 
 The following individuals support the creation of SIG-TypeScript-Compilation: 
+- Dima, Voytenko [@dvoytenko](https://github.com/dvoytenko) (Google)  
 - Dong Junjie [@coderebot](https://github.com/coderebot) (Xiaomi)  
 - Fan Shaogui [@GreatFan](https://github.com/GreatFan) (ByteDance)  
 - He Jie [@jhe33](https://github.com/jhe33) (Alibaba/Ant)   
@@ -20,11 +21,14 @@ The following individuals support the creation of SIG-TypeScript-Compilation:
 - Huang Wenyong [@wenyongh](https://github.com/wenyongh) (Intel)  
 - Jin Zhenwei [@zhenweijin](https://github.com/zhenweijin) (Intel)  
 - Squillace, Ralph [@squillace](https://github.com/squillace) (Microsoft)
+- Su Yihan [@yviansu](https://github.com/yviansu) (Intel)  
 - Vivek, Sekhar [@vsekhar](https://github.com/vsekhar) (Google)
 - Wang Xin [@xwang98](https://github.com/xwang98) (Intel)  
 - Xiao Xiang [@xiaoxiang781216](https://github.com/xiaoxiang781216) (Xiaomi)  
 - Xu Jun [@xujuntwt95329](https://github.com/xujuntwt95329) (Intel)  
+- Xu Xiong[@venus-taibai](https://github.com/venus-taibai) (Alibaba/Ant)  
+- Yang Wenming [@YoungWenMing](https://github.com/YoungWenMing) (ByteDance)  
 - Yao Zhongxiao [@yaozhongxiao](https://github.com/yaozhongxiao) (ByteDance)  
 - Zhang Di [@Zzzode](https://github.com/Zzzode) (ByteDance)  
-- Su Yihan [@yviansu](https://github.com/yviansu) (Intel)  
+
 
