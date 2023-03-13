@@ -13,6 +13,7 @@ Should the code artifacts prove generally useful, the SIG may also approach the 
 ## Supporting Members 
 
 The following individuals support the creation of SIG-TypeScript-Compilation: 
+- Chen Wengang [@ApsarasX](https://github.com/ApsarasX) (Alibaba/Ant)
 - Dima, Voytenko [@dvoytenko](https://github.com/dvoytenko) (Google)  
 - Dong Junjie [@coderebot](https://github.com/coderebot) (Xiaomi)  
 - Fan Shaogui [@GreatFan](https://github.com/GreatFan) (ByteDance)  
