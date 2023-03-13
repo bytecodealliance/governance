@@ -2,7 +2,7 @@
 
 This document is a proposal to create SIG-TypeScript-Compilation as a formal Special Interest Group (SIG) under the auspices of the TSC of the Bytecode Alliance, as specified in the TSC’s charter. 
 
-SIG-TypeScript-Compilation's primary goal is to describe and refine a suitable solution for compiling TypeScript program to WebAssembly based on the Wasm GC proposal and executing it in both browser and standalone Wasm runtime. The scope of this SIG is limited to discussions about compiling TS to WebAssembly, the neccessary runtime API (potentially defined as WASI) for supporting TS language features such as `Any` type, and exploration of how WebAssembly can grow to provide better support of dynamic languages natively.
+SIG-TypeScript-Compilation's primary goal is to describe and refine a suitable solution for compiling the TypeScript program to WebAssembly based on the Wasm GC proposal and executing it in both browser and standalone Wasm runtime. The scope of this SIG is limited to discussions about compiling TS to WebAssembly, the necessary runtime API (potentially defined as WASI) for supporting TS language features such as `Any` type, and exploration of how WebAssembly can grow to provide better support of dynamic languages natively.
 
 While it is not an express goal of the group, it is understood that in the process of designing, the group will produce proof-of-concept code.   
 
