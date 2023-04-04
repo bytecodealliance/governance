@@ -45,6 +45,7 @@ Huang Wenyong ([@wenyongh](https://github.com/wenyongh))
 Huene, Peter ([@peterhuene](https://github.com/peterhuene))  
 Hunt, Ryan ([@eqrion](https://github.com/eqrion))  
 iximeow ([@iximeow](https://github.com/iximeow))  
+Zhou, Jiaxiao([@mossaka](https://github.com/mossaka))  
 Johnson, Evan ([@enjhnsn2](https://github.com/enjhnsn2))  
 Jones, Brian J ([@brianjjones](https://github.com/brianjjones))  
 
