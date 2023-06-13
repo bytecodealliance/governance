@@ -34,7 +34,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Code of Conduct Team
 
-The Organization’s Code of Conduct Team is responsible for ensuring that all Code of Conduct complaints are investigated and resolved. It consists of the members of the Technical Steering Commmittee along with the Executive Director acting as Compliance Officer.  The Compliance Officer, on behalf of the Code of Conduct Team, will advise the Board of all complaints and their resolution and will report at least annually to the Board on compliance activity relating to the organizational Code of Conduct.
+The Organization’s Code of Conduct Team is responsible for ensuring that all Code of Conduct complaints are investigated and resolved. It consists of the members of the Technical Steering Commmittee along with the Executive Director acting as Compliance Officer. The Compliance Officer, on behalf of the Code of Conduct Team, will advise the Board of all complaints and their resolution and will report at least annually to the Board on compliance activity relating to the organizational Code of Conduct.
 
 ## Enforcement
 

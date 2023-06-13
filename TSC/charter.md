@@ -104,7 +104,7 @@ The way TSC members are determined differs by the type of representation:
 
 * Each Core Project appoints, by a process of its choosing, a delegate to represent the project to the TSC
 
-Projects and Recognized Contributors are empowered to determine/elect delegates of their choosing from  candidates in good standing with the Bytecode Alliance and community.  However, no person may be nominated to serve on the TSC if that person or their employer is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (“OFAC”).
+Projects and Recognized Contributors are empowered to determine/elect delegates of their choosing from candidates in good standing with the Bytecode Alliance and community. However, no person may be nominated to serve on the TSC if that person or their employer is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (“OFAC”).
 
 The TSC operates on a two-year term cycle. An individual may be reelected or renominated to serve multiple terms.
 
