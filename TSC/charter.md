@@ -104,7 +104,7 @@ The way TSC members are determined differs by the type of representation:
 
 * Each Core Project appoints, by a process of its choosing, a delegate to represent the project to the TSC
 
-There are no required entry qualifications for someone to be a TSC delegate—projects and Recognized Contributors are free to determine/elect delegates of their choosing without constraints beyond being in good standing with the BA and community.
+Projects and Recognized Contributors are empowered to determine/elect delegates of their choosing from candidates in good standing with the Bytecode Alliance and community. However, no person may be nominated to serve on the TSC if that person or their employer is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (“OFAC”).
 
 The TSC operates on a two-year term cycle. An individual may be reelected or renominated to serve multiple terms.
 
@@ -206,7 +206,7 @@ The Board of Directors will create resources (such as mailing lists and reposito
 
 Interest Group decisions should be made based upon consensus; if someone has strong objections, they should be heard and considered before being overridden. If a decision cannot be made by consensus, a simple majority vote of participating Bytecode Alliance members will decide the matter.
 
-The IG Chair(s) are responsible for arranging meetings, distributing agendas and minutes, and recording decisions. All IG business is to be conducted in public. The existence and charter of an interest group are to be made public, but the interest group may decide for itself whether its ongoing activity is made public.
+The IG Chair(s) are responsible for arranging meetings, distributing agendas and minutes, and recording decisions. All IG business is to be conducted in public.
 
 Interest Groups must operate in a manner that ensures ongoing alignment with the mission and operating principles of the Bytecode Alliance. Disagreement on whether specific aspects of the IG’s operations or outputs adhere to this requirement can be escalated to the TSC, which will provide an evaluation and, where it deems it necessary, recommend or request specific remediative measures. Additionally, the TSC might on its own accord engage with an IG to address potential alignment issues.
 
