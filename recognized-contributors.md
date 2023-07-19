@@ -8,6 +8,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 
 ## A-E
 
+Bedford, Guy ([@buybedford](https://github.com/buybedford))  
 Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))  
 bjorn3 ([@bjorn3](https://github.com/bjorn3))  
 Bordado, Afonso ([@afonso360](https://github.com/afonso360))  
