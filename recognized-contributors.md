@@ -61,6 +61,7 @@ martin, katelyn ([@cratelyn](https://github.com/cratelyn))
 Martin, Lann ([@lann](https://github.com/lann))
 Matei, Radu ([@radu](https://github.com/radu-matei))  
 McCallum, Nathaniel ([@npmccallum](https://github.com/npmccallum))  
+Mikushin, Ivan ([@imikushin](https://github.com/imikushin))
 Narayan, Shravan ([@shravanrn](https://github.com/shravanrn))  
 Noorali, Michelle ([@michelleN](https://github.com/michelleN))  
 
