@@ -6,7 +6,7 @@ To nominate a new Recognized Contributor, make a pull request adding the candida
 
 Format of entries: `Surname, First name (GitHub Username)`. When it is traditional to put surname first, the comma is omitted.
 
-* Bedford, Guy ([@buybedford](https://github.com/buybedford))
+* Bedford, Guy ([@guybedford](https://github.com/guybedford))
 * Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))
 * bjorn3 ([@bjorn3](https://github.com/bjorn3))
 * Bordado, Afonso ([@afonso360](https://github.com/afonso360))
@@ -46,8 +46,8 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
 * Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))
 * Kolny, Marcin ([@loganek](https://github.com/loganek))
-* Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))
-* Liang Tianlong[@TianlongLiang](https://github.com/TianlongLiang)
+* Kulakowski, George ([@kulakowski-wasm](https://github.com/kulakowski-wasm))
+* Liang Tianlong ([@TianlongLiang](https://github.com/TianlongLiang))
 * Macovei, Daniel ([macovedj](https://github.com/macovedj))
 * martin, katelyn ([@cratelyn](https://github.com/cratelyn))
 * Martin, Lann ([@lann](https://github.com/lann))
