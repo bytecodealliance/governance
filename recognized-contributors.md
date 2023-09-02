@@ -41,7 +41,6 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Huene, Peter ([@peterhuene](https://github.com/peterhuene))
 * Hunt, Ryan ([@eqrion](https://github.com/eqrion))
 * iximeow ([@iximeow](https://github.com/iximeow))
-* Zhou, Jiaxiao ([@mossaka](https://github.com/mossaka))
 * Johnson, Evan ([@enjhnsn2](https://github.com/enjhnsn2))
 * Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
 * Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))
@@ -87,3 +86,4 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * YAMAMOTO Takashi ([@yamt](https://github.com/yamt))
 * Yan Dongsheng ([@dongsheng28849455](https://github.com/dongsheng28849455))
 * Zang Lin ([@linzang](https://github.com/linzang))
+* Zhou, Jiaxiao ([@mossaka](https://github.com/mossaka))
