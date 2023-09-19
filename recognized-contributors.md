@@ -6,7 +6,7 @@ To nominate a new Recognized Contributor, make a pull request adding the candida
 
 Format of entries: `Surname, First name (GitHub Username)`. When it is traditional to put surname first, the comma is omitted.
 
-* Bedford, Guy ([@buybedford](https://github.com/buybedford))
+* Bedford, Guy ([@guybedford](https://github.com/guybedford))
 * Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))
 * bjorn3 ([@bjorn3](https://github.com/bjorn3))
 * Bordado, Afonso ([@afonso360](https://github.com/afonso360))
@@ -41,13 +41,12 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Huene, Peter ([@peterhuene](https://github.com/peterhuene))
 * Hunt, Ryan ([@eqrion](https://github.com/eqrion))
 * iximeow ([@iximeow](https://github.com/iximeow))
-* Zhou, Jiaxiao ([@mossaka](https://github.com/mossaka))
 * Johnson, Evan ([@enjhnsn2](https://github.com/enjhnsn2))
 * Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
 * Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))
 * Kolny, Marcin ([@loganek](https://github.com/loganek))
-* Kulakowski, George ([@kulakowski](https://github.com/kulakowski-wasm))
-* Liang Tianlong[@TianlongLiang](https://github.com/TianlongLiang)
+* Kulakowski, George ([@kulakowski-wasm](https://github.com/kulakowski-wasm))
+* Liang Tianlong ([@TianlongLiang](https://github.com/TianlongLiang))
 * Macovei, Daniel ([macovedj](https://github.com/macovedj))
 * martin, katelyn ([@cratelyn](https://github.com/cratelyn))
 * Martin, Lann ([@lann](https://github.com/lann))
@@ -87,3 +86,4 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * YAMAMOTO Takashi ([@yamt](https://github.com/yamt))
 * Yan Dongsheng ([@dongsheng28849455](https://github.com/dongsheng28849455))
 * Zang Lin ([@linzang](https://github.com/linzang))
+* Zhou, Jiaxiao ([@mossaka](https://github.com/mossaka))
