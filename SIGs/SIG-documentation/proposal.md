@@ -12,5 +12,7 @@ As an immediate deliverable of the SIG, the group will produce and maintain cent
 
 The following individuals support the creation of SIG-Documentation:
 
-- Lopez, Daniel @vomkriege
 - Hayes, Bailey @ricochet (Cosmonic)
+- Lopez, Daniel @vomkriege
+- Wagner, Luke @lukewagner (Fastly)
+- Woods, Chris @woodsmc (Siemens)
