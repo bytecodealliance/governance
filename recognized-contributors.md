@@ -64,6 +64,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))
 * Schoettler, Steve ([@stevelr](https://github.com/stevelr))
 * Sharp, Jamey ([@jameysharp](https://github.com/jameysharp))
+* Silesmo, Timmy ([@silesmo](https://github.com/silesmo))
 * Sinclair, Rainy ([@itsrainy](https://github.com/itsrainy))
 * Spencer, Oscar ([@ospencer](https://github.com/ospencer))
 * Squillace, Ralph ([@squillace](https://github.com/squillace))
