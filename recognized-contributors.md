@@ -82,6 +82,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Watt, Conrad ([@conrad-watt](https://github.com/conrad-watt))
 * Weigand, Ulrich ([@uweigand](https://github.com/uweigand))
 * Wu Zhongmin ([@sophy228](https://github.com/sophy228))
+* Wuyts, Yosh ([@yoshuawuyts](https://github.com/yoshuawuyts))
 * Xu Jun ([@xujuntwt95329](https://github.com/xujuntwt95329))
 * Xu Xiong ([@venus-taibai](https://github.com/venus-taibai))
 * YAMAMOTO Takashi ([@yamt](https://github.com/yamt))
