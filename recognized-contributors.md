@@ -16,6 +16,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Butcher, Matt ([@technosophos](https://github.com/technosophos))
 * Cabrera, Javier ([@Jacarte](https://github.com/Jacarte))
 * Cabrera, Saúl ([@saulecabrera](https://github.com/saulecabrera))
+* Champion, Jake ([@JakeChampion](https://GitHub.com/jakechampion))
 * Clark, Lin ([@linclark](https://github.com/linclark))
 * Crichton, Alex ([@alexcrichton](https://github.com/alexcrichton))
 * Delendik, Yury ([@yurydelendik](https://github.com/yurydelendik))
