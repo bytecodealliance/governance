@@ -41,6 +41,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Huang Wenyong ([@wenyongh](https://github.com/wenyongh))
 * Huene, Peter ([@peterhuene](https://github.com/peterhuene))
 * Hunt, Ryan ([@eqrion](https://github.com/eqrion))
+* Towlson, Ivan ([@itowlson](https://github.com/itowlson))
 * iximeow ([@iximeow](https://github.com/iximeow))
 * Johnson, Evan ([@enjhnsn2](https://github.com/enjhnsn2))
 * Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
