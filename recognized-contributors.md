@@ -19,6 +19,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Cabrera, Saúl ([@saulecabrera](https://github.com/saulecabrera))
 * Champion, Jake ([@JakeChampion](https://GitHub.com/jakechampion))
 * Chegham, Wassim ([@manekinekko](https://github.com/manekinekko))
+* Chu, Karen ([karenchu](https://github.com/karenhchu))
 * Clark, Lin ([@linclark](https://github.com/linclark))
 * Crichton, Alex ([@alexcrichton](https://github.com/alexcrichton))
 * Delendik, Yury ([@yurydelendik](https://github.com/yurydelendik))
