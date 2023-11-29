@@ -87,6 +87,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Sturtevant, James ([@jsturtevant](https://github.com/jsturtevant))
 * Sun, Mingqiu ([@mingqiusun](https://github.com/mingqiusun))
 * Sverre, Carl ([@carlsverre](https://github.com/carlsverre))
+* Tamayo-Rios, Matthew ([@geekbeast](https://github.com/geekbeast))
 * Tang Wei ([@wei-tang](https://github.com/wei-tang))
 * Thomas, Taylor ([@thomastaylor312](https://github.com/thomastaylor312))
 * Triplett, Josh ([@joshtriplett](https://github.com/joshtriplett))
