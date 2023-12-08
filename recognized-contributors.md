@@ -64,6 +64,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Penzin, Petr ([@penzn](https://github.com/penzn))
 * Prewitt, Calvin ([@calvinrp](https://github.com/calvinrp))
 * Qin Xiaokang ([@qinxk-inter](https://github.com/qinxk-inter))
+* Randall, Liam ([@liamrandall](https://github.com/liamrandall))
 * Rodrigues, Eduardo ([@eduardomourar](https://github.com/eduardomourar))
 * Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))
 * Schoettler, Steve ([@stevelr](https://github.com/stevelr))
