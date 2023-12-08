@@ -73,6 +73,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Spencer, Oscar ([@ospencer](https://github.com/ospencer))
 * Squillace, Ralph ([@squillace](https://github.com/squillace))
 * Stefan, Deian ([@deian](https://github.com/deian))
+* Sturtevant, James ([@jsturtevant](https://github.com/jsturtevant))
 * Sun, Mingqiu ([@mingqiusun](https://github.com/mingqiusun))
 * Sverre, Carl ([@carlsverre](https://github.com/carlsverre))
 * Tang Wei ([@wei-tang](https://github.com/wei-tang))
