@@ -51,6 +51,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))
 * Kolny, Marcin ([@loganek](https://github.com/loganek))
 * Kulakowski, George ([@kulakowski-wasm](https://github.com/kulakowski-wasm))
+* Levick, Ryan ([@rylev](https://github.com/rylev/))
 * Liang Tianlong ([@TianlongLiang](https://github.com/TianlongLiang))
 * Macovei, Daniel ([macovedj](https://github.com/macovedj))
 * martin, katelyn ([@cratelyn](https://github.com/cratelyn))
