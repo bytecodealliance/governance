@@ -13,7 +13,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Bordado, Afonso ([@afonso360](https://github.com/afonso360))
 * Bouvier, Benjamin ([@bnjbvr](https://github.com/bnjbvr))
 * Brown, Andrew ([@abrown](https://github.com/abrown))
-* Brown, Kyle ([@Kylebrown9](https://github.com/Kylebrown9))
+* Brown, Robin ([@esoterra](https://github.com/esoterra))
 * Butcher, Matt ([@technosophos](https://github.com/technosophos))
 * Cabrera, Javier ([@Jacarte](https://github.com/Jacarte))
 * Cabrera, Saúl ([@saulecabrera](https://github.com/saulecabrera))
