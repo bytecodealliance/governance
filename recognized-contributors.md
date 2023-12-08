@@ -38,6 +38,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * He Liang ([@lum1n0us](https://github.com/lum1n0us))
 * Heaton, Damian ([@dheaton-arm](https://github.com/dheaton-arm))
 * Hickey, Pat ([@pchickey](https://github.com/pchickey))
+* Hillerström, Daniel ([@dhil](https://github.com/dhil))
 * Holley, Bobby ([@bholley](https://github.com/bholley))
 * Hoyer, Harald ([@haraldh](https://github.com/haraldh))
 * Huang Qi ([@no1wudi](https://github.com/no1wudi))
