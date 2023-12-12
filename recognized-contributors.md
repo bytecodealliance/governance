@@ -60,6 +60,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Matei, Radu ([@radu](https://github.com/radu-matei))
 * McCallum, Nathaniel ([@npmccallum](https://github.com/npmccallum))
 * Mikushin, Ivan ([@imikushin](https://github.com/imikushin))
+* Mohan, Divya ([@divya-mohan0209](https://github.com/divya-mohan0209))
 * Narayan, Shravan ([@shravanrn](https://github.com/shravanrn))
 * Noorali, Michelle ([@michelleN](https://github.com/michelleN))
 * Parker, Sam ([@sparker-arm](https://github.com/sparker-arm))
