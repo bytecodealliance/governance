@@ -88,6 +88,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Sverre, Carl ([@carlsverre](https://github.com/carlsverre))
 * Tang Wei ([@wei-tang](https://github.com/wei-tang))
 * Thomas, Taylor ([@thomastaylor312](https://github.com/thomastaylor312))
+* tonibofarull ([@tonibofarull](https://github.com/tonibofarull))
 * Triplett, Josh ([@joshtriplett](https://github.com/joshtriplett))
 * Turner, Aaron ([@torch2424](https://github.com/torch2424))
 * Turon, Aaron ([@aturon](https://github.com/aturon))
