@@ -106,4 +106,4 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Yan Dongsheng ([@dongsheng28849455](https://github.com/dongsheng28849455))
 * Zang Lin ([@linzang](https://github.com/linzang))
 * Zhou, Jiaxiao ([@mossaka](https://github.com/mossaka))
-* zoraaver ([@zoraaver](https://github.com/zoraaver))
+* Singh, Zoraaver ([@zoraaver](https://github.com/zoraaver))
