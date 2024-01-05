@@ -50,6 +50,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * iximeow ([@iximeow](https://github.com/iximeow))
 * Johnson, Evan ([@enjhnsn2](https://github.com/enjhnsn2))
 * Jones, Brian J ([@brianjjones](https://github.com/brianjjones))
+* Ker-Seymer, Ian ([ianks](https://github.com/ianks))
 * Kirilov, Anton ([@akirilov-arm](https://github.com/akirilov-arm))
 * Kolny, Marcin ([@loganek](https://github.com/loganek))
 * Kulakowski, George ([@kulakowski-wasm](https://github.com/kulakowski-wasm))
