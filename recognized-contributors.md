@@ -59,6 +59,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Levick, Ryan ([@rylev](https://github.com/rylev/))
 * Liang Tianlong ([@TianlongLiang](https://github.com/TianlongLiang))
 * Litskevich, Maks ([@Zzzabiyaka](https://github.com/Zzzabiyaka))
+* Loparco, Enrico ([@eloparco](https://github.com/eloparco))
 * Macovei, Daniel ([macovedj](https://github.com/macovedj))
 * martin, katelyn ([@cratelyn](https://github.com/cratelyn))
 * Martin, Lann ([@lann](https://github.com/lann))
