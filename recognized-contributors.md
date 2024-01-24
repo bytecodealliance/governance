@@ -104,6 +104,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Watt, Conrad ([@conrad-watt](https://github.com/conrad-watt))
 * Waye, Scott ([@yowl](https://github.com/yowl))
 * Weigand, Ulrich ([@uweigand](https://github.com/uweigand))
+* whitequark, Catherine ([@whitequark](https://github.com/whitequark))
 * Wu Zhongmin ([@sophy228](https://github.com/sophy228))
 * Wuyts, Yosh ([@yoshuawuyts](https://github.com/yoshuawuyts))
 * Xu Jun ([@xujuntwt95329](https://github.com/xujuntwt95329))
