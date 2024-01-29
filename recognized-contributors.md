@@ -34,6 +34,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Foltzer, Adam ([@acfoltzer](https://github.com/acfoltzer))
 * Freyler, Robin ([@robbepop](https://github.com/robbepop))
 * Galli, Enrico ([@egalli](https://github.com/egalli))
+* Garfinkel, Tal ([@talg](https://github.com/talg))
 * Gohman, Dan ([@sunfishcode](https://github.com/sunfishcode))
 * Goldenring, Kate ([@kate-goldenring](https://github.com/kate-goldenring))
 * Hardock, Brian ([@fibonacci1729](https://github.com/fibonacci1729))
