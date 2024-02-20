@@ -1,9 +1,9 @@
 ---
-name: New Hosted Project
-about: Propose the creation or adoption of a new hosted project.
-title: Hosted Project Proposal: The TODO Project
-labels: hosted-project-proposal
-assignees: ''
+name: "New Hosted Project"
+about: "Propose the creation or adoption of a new hosted project."
+title: "Hosted Project Proposal: The TODO Project"
+labels: "hosted-project-proposal"
+assignees: ""
 ---
 
 Proposing the adoption of TODO as a Bytecode Alliance hosted project.

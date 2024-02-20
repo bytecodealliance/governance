@@ -1,9 +1,9 @@
 ---
-name: New Core Project
-about: Propose the promotion of a hosted project to a core project.
-title: Core Project Proposal: The TODO Project
-labels: core-project-proposal
-assignees: ''
+name: "New Core Project"
+about: "Propose the promotion of a hosted project to a core project."
+title: "Core Project Proposal: The TODO Project"
+labels: "core-project-proposal"
+assignees: ""
 ---
 
 Proposing the promotion of TODO to a core project.
