@@ -26,6 +26,6 @@ To ensure that all interested members of the WebAssembly community can participa
 
 ## Supporting members
 
-* Woods, Chris (Siemens) @woodsmc
+* Chris Woods (Siemens) @woodsmc
 * Ayako Akaska (Midokura)
-* 
+* Marcin Kolny (Amazon Prime Video)
