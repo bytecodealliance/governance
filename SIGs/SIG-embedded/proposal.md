@@ -12,6 +12,8 @@ The purpose of this group is to support and promote the use of WebAssembly and W
 
 
 Any work the group does which involves standardized extensions to runtimes and their interfaces will enter the appropriate standardization process (e.g. WASM CG, WASI).
+
+
 To ensure that all interested members of the WebAssembly community can participate the SIG will arrange regular meetings which rotate between time slots most suitable for Asia, Europe and the Americas. It would therefore be desirable to have three co-chairs, preferably, one from each time-zone who would help facilitate the regular meetings.
 
 ## Deliverables
