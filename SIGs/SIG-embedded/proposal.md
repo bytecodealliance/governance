@@ -29,4 +29,5 @@ To ensure that all interested members of the WebAssembly community can participa
 * Xing Wang (Intel)
 * Nuno Pereria
 * Ralph Squillace (Microsoft)
+* Dan Gohman (Fastly)
 * 
