@@ -26,3 +26,4 @@ To ensure that all interested members of the WebAssembly community can participa
 * Dominik Tacke (Siemens)
 * Christof Petig
 * Catherine (whitequark)
+* Xing Wang (Intel)
