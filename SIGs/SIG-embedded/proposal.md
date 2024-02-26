@@ -25,3 +25,4 @@ To ensure that all interested members of the WebAssembly community can participa
 * Marcin Kolny (Amazon Prime Video)
 * Dominik Tacke (Siemens)
 * Christof Petig
+* Catherine (whitequark)
