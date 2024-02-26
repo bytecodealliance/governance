@@ -27,3 +27,4 @@ To ensure that all interested members of the WebAssembly community can participa
 * Christof Petig
 * Catherine (whitequark)
 * Xing Wang (Intel)
+* Nuno Pereria
