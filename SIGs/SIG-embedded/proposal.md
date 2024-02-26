@@ -28,3 +28,5 @@ To ensure that all interested members of the WebAssembly community can participa
 * Catherine (whitequark)
 * Xing Wang (Intel)
 * Nuno Pereria
+* Ralph Squillace (Microsoft)
+* 
