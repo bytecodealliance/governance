@@ -30,4 +30,5 @@ To ensure that all interested members of the WebAssembly community can participa
 * Nuno Pereria
 * Ralph Squillace (Microsoft)
 * Dan Gohman (Fastly)
+* Stephen Berard
 * 
