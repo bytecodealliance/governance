@@ -23,7 +23,7 @@ To ensure that all interested members of the WebAssembly community can participa
 * Chris Woods (Siemens) @woodsmc
 * Ayako Akaska (Midokura)
 * Marcin Kolny (Amazon Prime Video)
-* Dominik Tacke (Siemens)
+* Dominik Tacke (Siemens) @tacdom
 * Christof Petig
 * Catherine (whitequark)
 * Xing Wang (Intel)
