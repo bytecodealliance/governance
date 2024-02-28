@@ -26,11 +26,11 @@ To ensure that all interested members of the WebAssembly community can participa
 * Dominik Tacke (Siemens) @tacdom
 * Christof Petig
 * Catherine (whitequark)
-* Xing Wang (Intel)
+* Xin Wang (Intel)
 * Nuno Pereria
 * Ralph Squillace (Microsoft)
 * Dan Gohman (Fastly)
 * Stephen Berard
-* Merlinjn Sebrechts
+* Merlijn Sebrechts
 * Milan
-* Qi Huang
+* Qi Huang (Xiaomi)
