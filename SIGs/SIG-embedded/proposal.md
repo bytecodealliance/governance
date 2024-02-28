@@ -32,5 +32,5 @@ To ensure that all interested members of the WebAssembly community can participa
 * Dan Gohman (Fastly)
 * Stephen Berard
 * Merlinjn Sebrechts
-* Milan
+* Milan Raj (National Instruments) @rajsite
 * Qi Huang
