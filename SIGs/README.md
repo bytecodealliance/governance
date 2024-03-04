@@ -11,7 +11,7 @@ A Interest Group is a group of Bytecode Alliance members (and invited participan
 ## Current SIGs
 Currently active Bytecode Alliance SIGs (and their respective Chairpersons) include:
 * SIG Registries (Robin Brown and Calvin Prewitt, Co-chairs)
-* SIG Guest Languages (Robin Brown, Chair)
+* SIG Guest Languages (Robin Brown and Guy Bedford, Co-chairs)
   * JavaScript Working Group  (Saúl Cabrera and Calvin Prewitt, Co-chairs)
   * C# Working Group (Timmy Silesmo, Chair)
   * Python Working Group (Joel Dice, Chair)
