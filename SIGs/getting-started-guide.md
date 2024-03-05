@@ -42,5 +42,3 @@ The Bytecode Alliance maintains a Zoom account to enable video meeting support a
     - SIG Admin Zoom credentials to manage video meetings and meeting recordings
     - YouTube credentials to upload videos
     - Public Events calendar to schedule and maintain SIG meetings
-
-
