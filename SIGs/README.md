@@ -9,6 +9,7 @@ To accommodate those discussions and assure that the community’s valuable feed
 A Interest Group is a group of Bytecode Alliance members (and invited participants; see below) who share an interest in a particular application or aspect of the technology that the Bytecode Alliance is working on. IGs serve as a channel for practitioners and users of BA technology to give feedback and input to the development of its technology, as well as a space for them to discuss how to use it.
 
 ## Current SIGs
+
 Currently active Bytecode Alliance SIGs (and their respective Chairpersons) include:
 * SIG Registries (Robin Brown and Calvin Prewitt, Co-chairs)
 * SIG Guest Languages (Robin Brown and Guy Bedford, Co-chairs)
