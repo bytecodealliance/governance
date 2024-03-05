@@ -19,3 +19,9 @@ The Bytecode Alliance Technical Steering Committee (TSC) will provide timely ack
 Once the project maintainers have come to a consenus agreement regarding the promotion to a core project, they will initiate the process by creating an issue within the [the Bytecode Alliance governance repository](https://github.com/bytecodealliance/governance). Use [the "New Core Project" issue template](https://github.com/bytecodealliance/governance/issues/new/choose) and fill in all of the `TODO`s.
 
 The Bytecode Alliance Technical Steering Committee (TSC) will provide timely acknowledgement of the application. The TSC will then perform an in-depth review of the project, evaluate whether it meets the core project requirements, and decide based on consensus whether to promote the project. Next, the TSC will reply in the issue with the results of the review and whether the project has been promoted. If it has been promoted, then the project maintainers will [choose a delegate to represent the project on the TSC](https://github.com/bytecodealliance/governance/blob/d0310b2f4fab7d5bd076627b196dfc0ffe040ec1/TSC/charter.md#composition).
+
+## Handling of Existing Projects
+
+At the point of adoption of these requirements, all existing projects are implicitly treated as Hosted Projects. The TSC will over time work with project maintainers to ensure that they satisfy the requirements for Hosted Projects, and explicitly add their projects to the list of Hosted Projects.
+
+Additionally, we encourage maintainers of existing projects to consider applying for Core Project status, if they see their project as a good fit and in compliance with the stricter requirements.
