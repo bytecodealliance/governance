@@ -23,6 +23,7 @@ Currently active Bytecode Alliance SIGs (and their respective Chairpersons) incl
 Each SIG is described in more detail in subfolders in this repository
 
 # Learn More
+
 If you're looking for information on SIG meetings and associated activities you'll find the relevant details in the Bytecode Alliance [meetings repository](https://github.com/bytecodealliance/meetings).
 
 If you're interested in forming an Interest Group you'll find more information in the [TSC charter](https://github.com/bytecodealliance/governance/blob/main/TSC/charter.md) as well as a [Getting Started Guide](https://github.com/bytecodealliance/governance/blob/main/SIGs/getting-started-guide.md) here.
