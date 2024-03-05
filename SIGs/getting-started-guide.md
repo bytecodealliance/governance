@@ -37,6 +37,7 @@ The following are minimum requirements of running a SIG:
 The Bytecode Alliance maintains a Zoom account to enable video meeting support and recording for all its SIGs.
 
 ## Co-chair onboarding
+
 - [ ] Add to `sig-admins` Google Group
 - [ ] Add to the Bytecode Alliance 1Password Team account so can access:
     - SIG Admin Zoom credentials to manage video meetings and meeting recordings
