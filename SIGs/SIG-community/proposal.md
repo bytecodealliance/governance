@@ -21,4 +21,4 @@ The group will communicate asynchronously (on Zulip) and synchronously through r
 
 The following individuals support the creation of SIG-Documentation:
 
-- TBD
+- Bailey Hayes (Cosmonic)
