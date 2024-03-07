@@ -30,7 +30,7 @@ The following are minimum requirements of running a SIG:
 
 - All meetings must be public. The zoom link need not be publicly available, to avoid zoom bombing, but should be shared with anyone who requests it.
 - Attendance and notes should be taken at all meetings
-- It is recommended, but not requied, that meetings be recorded and uploaded to Bytecode Alliance YouTube in a playlist for the SIG. (Note: check "No it is not made for kids" when uploaded.)
+- It is recommended, but not required, that meetings be recorded and uploaded to Bytecode Alliance [YouTube channel](https://www.youtube.com/@bytecodealliance) in a playlist for the SIG. (Note: check "No it is not made for kids" when uploaded.)
 - Meeting notes must be publicly available and easy to find, either by including them in the SIG's subfolder in the [`meetings`](https://github.com/bytecodealliance/meetings) repo or, if elsewhere, directly linked to from within that subfolder.
 
 The Bytecode Alliance maintains a Zoom account to enable video meeting support and recording for all its SIGs.
