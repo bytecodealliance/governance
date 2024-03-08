@@ -21,6 +21,7 @@ Currently active Bytecode Alliance SIGs (and their respective Chairpersons) incl
 * SIG Typescript Compilation (Wang Xin, Chair)
 * SIG Debugging (Nick Fitzgerald, Chair)
 * SIG Documentation (Kate Goldenring and Danniel Macovei, Co-chairs)
+* SIG Community (Karen Chu and Divya Mohan, Co-chairs)
 
 Each SIG is described in more detail in subfolders in this repository
 
