@@ -13,7 +13,7 @@ To ensure that all interested members of the WebAssembly community can participa
 ## Deliverables
 
 1. In order to scope and guide discussions, the SIG will define the lowest addressable device (low footprint device) that Wasm and WASI can target.
-2. The group may provide notes and guides to the embedded community on how to address the specific constraints the ecosystem.
+2. The group may provide notes and guides to the embedded community on how to address the specific constraints of the ecosystem.
 3. The group may provide notes to the WASM CG, WASI CG on industrial uses cases and technical constraints.
 4. The group may provide notes and where appropriate technical proof of concepts to the WASM CG and WASI CG on ways to address the specific constraints faced by the Embedded and industrial use cases.
 5. The group may provide software to support embedded use cases including proof of concept implementations, producer tools, or proposed solutions, which may be specialized for specific use cases or platforms.
