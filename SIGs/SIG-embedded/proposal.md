@@ -2,7 +2,7 @@
 
 This document is a proposal to create SIG-Embedded and Industrial Applications as a formal Special Interest Group (SIG) under the auspices of the TSC of the Bytecode Alliance, as specified in the TSC’s charter. 
 
-The Embedded ecosystem is ideally placed to benefit from the use of WASM and WASI. It has a set of constraints on performance in comparison to native non—WASM execution, determinism and reliability which can exceed those of other ecosystems. This gives rise to the definition of a low footprint device. The best way to address these specific needs is with a unified ecosystem of tools, technologies, documentation, and support. 
+The Embedded ecosystem is ideally placed to benefit from the use of Wasm and WASI. It has a set of constraints on performance in comparison to native non—Wasm execution, determinism and reliability which can exceed those of other ecosystems. This gives rise to the definition of a low footprint device. The best way to address these specific needs is with a unified ecosystem of tools, technologies, documentation, and support. 
 
 The purpose of this group is to support and promote the use of WebAssembly and WASI in Embedded and Industrial user cases. This will be achieved by providing notes on best practice to existing practitioners, and by providing the TSC, WASI subgroup and WASM community group with uses cases which illustrate constraints and proposals to address such limitations.
 
