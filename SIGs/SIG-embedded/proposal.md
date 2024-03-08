@@ -34,3 +34,4 @@ To ensure that all interested members of the WebAssembly community can participa
 * Merlijn Sebrechts
 * Milan Raj (National Instruments) @rajsite
 * Qi Huang (Xiaomi)
+* Petr Penzin @penzn
