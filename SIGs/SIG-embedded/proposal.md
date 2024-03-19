@@ -1,0 +1,37 @@
+# Proposal to Create a SIG-Embedded and Industrial Applications
+
+This document is a proposal to create SIG-Embedded and Industrial Applications as a formal Special Interest Group (SIG) under the auspices of the TSC of the Bytecode Alliance, as specified in the TSC’s charter. 
+
+The Embedded ecosystem is ideally placed to benefit from the use of Wasm and WASI. It has a set of constraints on performance in comparison to native non—Wasm execution, determinism and reliability which can exceed those of other ecosystems. This gives rise to the definition of a low footprint device. The best way to address these specific needs is with a unified ecosystem of tools, technologies, documentation, and support. 
+
+The purpose of this group is to support and promote the use of WebAssembly and WASI in Embedded and Industrial user cases. This will be achieved by providing notes on best practice to existing practitioners, and by providing the TSC, WASI subgroup and WASM community group with uses cases which illustrate constraints and proposals to address such limitations.
+
+Any work the group does which involves standardized extensions to runtimes and their interfaces will enter the appropriate standardization process (e.g. WASM CG, WASI).
+
+To ensure that all interested members of the WebAssembly community can participate the SIG will arrange regular meetings which rotate between time slots most suitable for Asia, Europe and the Americas. It would therefore be desirable to have three co-chairs, preferably, one from each time-zone who would help facilitate the regular meetings.
+
+## Deliverables
+
+1. In order to scope and guide discussions, the SIG will define the lowest addressable device (low footprint device) that Wasm and WASI can target.
+2. The group may provide notes and guides to the embedded community on how to address the specific constraints of the ecosystem.
+3. The group may provide notes to the WebAssembly Community Group and its WASI subgroup on industrial uses cases and technical constraints.
+4. The group may provide notes and where appropriate technical proof of concepts to the WebAssembly Community Group and its WASI subgroup on ways to address the specific constraints faced by the Embedded and industrial use cases.
+5. The group may provide software to support embedded use cases including proof of concept implementations, producer tools, or proposed solutions, which may be specialized for specific use cases or platforms.
+
+## Supporting members
+
+* Chris Woods (Siemens) @woodsmc
+* Ayako Akaska (Midokura)
+* Marcin Kolny (Amazon Prime Video)
+* Dominik Tacke (Siemens) @tacdom
+* Christof Petig
+* Catherine (whitequark)
+* Xin Wang (Intel)
+* Nuno Pereria
+* Ralph Squillace (Microsoft)
+* Dan Gohman (Fastly)
+* Stephen Berard
+* Merlijn Sebrechts
+* Milan Raj (National Instruments) @rajsite
+* Qi Huang (Xiaomi)
+* Petr Penzin @penzn
