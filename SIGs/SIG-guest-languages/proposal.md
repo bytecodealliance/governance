@@ -21,7 +21,7 @@ Any work the group does which involves engine extensions and runtime interfaces 
 The following individuals support the creation of SIG-Guest-Languages
 
 * Bedford, Guy (Fastly)
-* Brown, Kyle (SingleStore)
+* Brown, Robin (SingleStore)
 * Cabrera, Saúl (Shopify)
 * Cannon, Brett (Microsoft)
 * Chiarlone, Dan (Microsoft)
