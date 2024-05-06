@@ -12,18 +12,18 @@ As explained in the Bytecode Alliance [Technical Steering Committee charter](htt
 Bytecode Alliance SIGs operate transparently and in full public view, open to participation by all. Approved SIGs therefore require a variety of resources to support their operation. For help with any of these contact David Bryant, Bytecode Alliance Executive Director, at david@bytecodealliance.org
 
 ### On GitHub
-- [ ] **Governance** Create a subfolder for the new SIG in the SIGs folder of the Bytecode Alliance [governance](https://github.com/bytecodealliance/governance/tree/main/SIGs) repository, making its existence and purpose officially public. 
+- [ ] **Governance** - Create a subfolder for the new SIG in the SIGs folder of the Bytecode Alliance [governance](https://github.com/bytecodealliance/governance/tree/main/SIGs) repository, making its existence and purpose officially public. 
     - [ ] Add the approved proposal for the SIG to its subfolder, making sure the stated scope, goals, and members are up to date.
     - [ ] Update the README in the overall SIGs subfolder to include the new SIG with its Chair(s).
-- [ ] **Meetings** Create a subfolder for the new SIG in the Bytecode Alliance [`meetings`](https://github.com/bytecodealliance/meetings) repository, giving it a place to share important meeting info as well as gather meeting agenda and minutes.  This gives the SIG Chairs access to create and update all the SIGs meeting information in the `meetings` repo.
-    - [ ] Create a new GitHub [team](https://github.com/orgs/bytecodealliance/teams) for the approved SIG Chairs, as a subteam of the existing `sig-chairs` GitHub team, and give that new team access to the SIGs subfolder in the `meetings` repository (via the `CODEOWNERS` file in the repo).
-    - [ ] Add a README to the SIG's subfolder summarizing general information about attending SIG meetings.
+- [ ] **Meetings** - Create a subfolder for the new SIG in the Bytecode Alliance [`meetings`](https://github.com/bytecodealliance/meetings) repository, giving it a place to share important meeting information as well as gather meeting agenda and minutes.  
+    - [ ] Create a new GitHub [team](https://github.com/orgs/bytecodealliance/teams) for the approved SIG Chairs, as a subteam of the existing `sig-chairs` GitHub team, and give that new team access to the SIGs subfolder in the `meetings` repository (via the `CODEOWNERS` file in the repo). This allows the SIG Chairs access to create and update all meeting information for the SIG.
+    - [ ] Add a README to the SIG subfolder summarizing general information about attending SIG meetings.
     - [ ] Update the README in the [`meetings`](https://github.com/bytecodealliance/meetings) repo to include the new SIG and identify the SIG Chairs
     - [ ] Add meeting agegnda and notes to the subfolder as meetings are planned and occur, typically organized by year.
 
 
 ### Communications
-- [ ] Ensure SIG Chairs are added to the [`sig-admin`](https://groups.google.com/u/1/a/bytecodealliance.org/g/sig-admin) Google Group to get admin information and access, such as in organizing Zoom meetings, access meeting recordings, update the Bytecode Alliance public calendar, etc.
+- [ ] Ensure SIG Chairs are added to the [`sig-admin`](https://groups.google.com/u/1/a/bytecodealliance.org/g/sig-admin) Google Group to get admin information and access, such as in organizing Zoom meetings, managing meeting recordings, updating the Bytecode Alliance public calendar, etc.
 - [ ] Create a Google Group for the SIG within the Bytecode Alliance Google Workspace, allowing easy communication and sharing of materials among SIG members. Make sure group permissions allow anyone on the web to ask to join.
 - [ ] Create a  channel for the SIG on the Bytecode Alliance [`Zulip server`](https://bytecodealliance.zulipchat.com)
 - [ ] Add SIG meetings to the Bytecode Alliance [public calendar](https://calendar.google.com/calendar/embed?src=events%40bytecodealliance.org&ctz=America%2FLos_Angeles). Include important details on joining the meeting or a link to where those details may be found.
@@ -35,11 +35,11 @@ Bytecode Alliance SIGs operate transparently and in full public view, open to pa
 
 ## Running SIG Meetings
 
-In addition to the `meetings` repository mentioned above for sharing meeting agenda and minutes, the Bytecode Alliance maintains a Zoom account to enable video meeting support and recording for all its SIGs. Meeting recordings are shared using the Bytecode Alliance's YouTube account.
+In addition to the `meetings` repository mentioned above for publishing meeting agenda and minutes, the Bytecode Alliance maintains a Zoom account to enable video meeting support and recording for all SIGs, and a YouTube account for sharing meeting recordings publicly.
 
 The following are minimum requirements of running a SIG:
 
-- All meetings must be public.  The Zoom link need not be publicly available, to avoid Zoom bombing, but should be shared with anyone who requests it.
+- All meetings must be public.  The Zoom link need not be publicly available to avoid Zoom bombing, but should be shared with anyone who requests it.
 - Attendance and notes should be taken at all meetings
 - It is recommended, but not required, that meetings be recorded and uploaded to Bytecode Alliance [YouTube channel](https://www.youtube.com/@bytecodealliance) in a playlist for the SIG. (Note: check "No it is not made for kids" when uploaded.)
 - Meeting notes must be publicly available and easy to find, ideally by including them in the SIG's subfolder in the [`meetings`](https://github.com/bytecodealliance/meetings) repo or, if elsewhere, directly linked to from within that subfolder.
