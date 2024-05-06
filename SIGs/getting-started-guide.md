@@ -35,8 +35,6 @@ Bytecode Alliance SIGs operate transparently and in full public view, open to pa
 
 ## Running SIG Meetings
 
-In addition to the `meetings` repository mentioned above for publishing meeting agenda and minutes, the Bytecode Alliance maintains a Zoom account to enable video meeting support and recording for all SIGs, and a YouTube account for sharing meeting recordings publicly.
-
 The following are minimum requirements of running a SIG:
 
 - All meetings must be public.  The Zoom link need not be publicly available to avoid Zoom bombing, but should be shared with anyone who requests it.
@@ -44,3 +42,5 @@ The following are minimum requirements of running a SIG:
 - It is recommended, but not required, that meetings be recorded and uploaded to Bytecode Alliance [YouTube channel](https://www.youtube.com/@bytecodealliance) in a playlist for the SIG. (Note: check "No it is not made for kids" when uploaded.)
 - Meeting notes must be publicly available and easy to find, ideally by including them in the SIG's subfolder in the [`meetings`](https://github.com/bytecodealliance/meetings) repo or, if elsewhere, directly linked to from within that subfolder.
 - Conversations about meetings should take place in the SIG's stream on Zulip, including discussion of agenda topics, proposals to move/cancel a meeting, or important changes in meeting logistics.
+
+In addition to the `meetings` repository mentioned above for publishing meeting agenda and minutes, the Bytecode Alliance maintains a Zoom account to enable video meeting support and recording for all SIGs, and a YouTube account for sharing meeting recordings publicly.
