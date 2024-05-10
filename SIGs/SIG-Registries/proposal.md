@@ -13,7 +13,7 @@ Should the code artifacts prove generally useful, the SIG may also approach the 
 The following individuals support the creation of SIG-Registries: 
 
 - Birch, Johnnie [@jlb6740](https://github.com/jlb6740) (Intel)
-- Brown, Kyle [@Kylebrown9](https://github.com/Kylebrown9) (SingleStore)
+- Brown, Robin [@esoterra](https://github.com/esoterra) (SingleStore)
 - Butcher, Matt [@technosophos](https://github.com/technosophos) (Fermyon)
 - Hardock, Brian [@fibonacci1729](https://github.com/fibonacci1729) (Fermyon)
 - Hayes, Bailey [@ricochet](https://github.com/ricochet) (Cosmonic)
