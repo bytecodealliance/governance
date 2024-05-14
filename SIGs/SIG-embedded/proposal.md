@@ -149,3 +149,4 @@ As part of the work the SIG conducts it may be necessary for organizations to pr
 - Dongsheng Yan(Sony) @dongsheng28849455
 - Wenyong Huang (Intel) @wenyongh
 - Christof Petig (Aptiv) @cpetig
+- Petr Penzin @ppenzin
