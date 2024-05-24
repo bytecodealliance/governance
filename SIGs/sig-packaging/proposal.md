@@ -10,7 +10,7 @@ publishing Wasm components. The group should seek to further registry designs
 but also create integrations and coordinate with other related packaging efforts.
 
 Key deliverables and areas of focus:
-- Development of `wkg` and `wasm-pkg-tools` for consuming and publishing components to OCI and Warg registries;
+- Development of shared libraries and common tooling for consuming and publishing components to OCI and Warg registries;
 - Supporting the development and use of the Warg registry protocol and tooling;
 - Identify and document stakeholder requirements for discovering and consuming Wasm components;
 
