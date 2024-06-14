@@ -11,7 +11,7 @@ A Interest Group is a group of Bytecode Alliance members (and invited participan
 ## Current SIGs
 
 Currently active Bytecode Alliance SIGs (and their respective Chairpersons) include:
-* SIG Registries (Lann Martin and Calvin Prewitt, Co-chairs)
+* SIG Packaging (Lann Martin and Calvin Prewitt, Co-chairs)
 * SIG Guest Languages (Robin Brown and Guy Bedford, Co-chairs)
   * JavaScript Subgroup  (Saúl Cabrera and Calvin Prewitt, Co-chairs)
   * C# Subgroup (Timmy Silesmo, Chair)
@@ -25,6 +25,11 @@ Currently active Bytecode Alliance SIGs (and their respective Chairpersons) incl
 * SIG Embedded (Chris Woods, Chair)
 
 Each SIG is described in more detail in subfolders in this repository
+
+## Past SIGs
+The [archived folder](https://github.com/bytecodealliance/governance/tree/main/SIGs/archived) here contains materials for Special Interest Groups that have completed their work or otherwise concluded operations:
+* SIG Registries, which was rechartered as SIG Packaging
+
 
 # Learn More
 
