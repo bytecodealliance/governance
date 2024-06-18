@@ -150,3 +150,5 @@ As part of the work the SIG conducts it may be necessary for organizations to pr
 - Wenyong Huang (Intel) @wenyongh
 - Christof Petig (Aptiv) @cpetig
 - Petr Penzin @ppenzin
+- Ayako Akasaka (Midokura) @ayakoakasaka
+- Takashi Yamamoto (Midokura) @yamt
