@@ -79,6 +79,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Reddig, Randy ([@ydnar](https://github.com/ydnar))
 * Rockwood, Tyler ([@rockwotj](https://github.com/rockwotj))
 * Rodrigues, Eduardo ([@eduardomourar](https://github.com/eduardomourar))
+* Ruppel, Emily ([@kangaruppel](https://github.com/kangaruppel))
 * Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))
 * Schoettler, Steve ([@stevelr](https://github.com/stevelr))
 * Sharp, Jamey ([@jameysharp](https://github.com/jameysharp))
