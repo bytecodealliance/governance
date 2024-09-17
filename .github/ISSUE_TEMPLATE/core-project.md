@@ -62,7 +62,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 
 > Not all projects will necessarily benefit from fuzzing, for example benchmark suites. The TSC may choose lift this requirement for a particular project.
 >
-> It is required that core projects have 24/7, round the clock, continuous fuzzing. The fuzzing must exercise significant amounts of the code base and test the project's most important properties, such as sandboxing. Bugs and vulnerabilities discovered via fuzzing must be addressed promptly.
+> It is required that core projects have continuous fuzzing, for example in [OSS-Fuzz](https://github.com/google/oss-fuzz). The fuzzing must exercise significant amounts of the code base and test the project's most important properties, such as sandboxing. Bugs and vulnerabilities discovered via fuzzing must be addressed promptly.
 >
 > Part of our open-source and open contribution model, the corpus and setup for running fuzzing must be open-sourced as part of the project.
 >
