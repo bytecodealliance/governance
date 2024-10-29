@@ -36,6 +36,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Galli, Enrico ([@egalli](https://github.com/egalli))
 * Gohman, Dan ([@sunfishcode](https://github.com/sunfishcode))
 * Goldenring, Kate ([@kate-goldenring](https://github.com/kate-goldenring))
+* Gregory, Eric ([ericgregory](https://github.com/ericgregory))
 * Hardock, Brian ([@fibonacci1729](https://github.com/fibonacci1729))
 * Hayes, Bailey ([@ricochet](https://github.com/ricochet))
 * He Jie ([@jhe33](https://github.com/jhe33))
