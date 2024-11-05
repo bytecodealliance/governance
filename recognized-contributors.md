@@ -32,6 +32,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Fallin, Chris ([@cfallin](https://github.com/cfallin))
 * Fitzgerald, Nick ([@fitzgen](https://github.com/fitzgen))
 * Foltzer, Adam ([@acfoltzer](https://github.com/acfoltzer))
+* Fontes, Lucas ([@lxfontes](https://github.com/lxfontes))
 * Freyler, Robin ([@robbepop](https://github.com/robbepop))
 * Galli, Enrico ([@egalli](https://github.com/egalli))
 * Gohman, Dan ([@sunfishcode](https://github.com/sunfishcode))
