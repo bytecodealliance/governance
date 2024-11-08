@@ -8,6 +8,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 
 * Bakker, Dave ([@badeend](https://github.com/badeend))
 * Bedford, Guy ([@guybedford](https://github.com/guybedford))
+* Berger, Mendy ([@MendyBerger](https://github.com/MendyBerger))
 * Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))
 * bjorn3 ([@bjorn3](https://github.com/bjorn3))
 * Bofarull, Antoni ([@tonibofarull](https://github.com/tonibofarull))
