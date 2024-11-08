@@ -6,6 +6,7 @@ To nominate a new Recognized Contributor, make a pull request adding the candida
 
 Format of entries: `Surname, First name (GitHub Username)`. When it is traditional to put surname first, the comma is omitted.
 
+* Adossi, Victor ([@vados-cosmonic](https://github.com/vados-cosmonic))
 * Bakker, Dave ([@badeend](https://github.com/badeend))
 * Bedford, Guy ([@guybedford](https://github.com/guybedford))
 * Berger, Mendy ([@MendyBerger](https://github.com/MendyBerger))
