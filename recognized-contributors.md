@@ -101,6 +101,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Tamayo-Rios, Matthew ([@geekbeast](https://github.com/geekbeast))
 * Tang Wei ([@wei-tang](https://github.com/wei-tang))
 * Thomas, Taylor ([@thomastaylor312](https://github.com/thomastaylor312))
+* Trenner, Thomas ([ttrenner](https://github.com/ttrenner))  
 * Triplett, Josh ([@joshtriplett](https://github.com/joshtriplett))
 * Turner, Aaron ([@torch2424](https://github.com/torch2424))
 * Turon, Aaron ([@aturon](https://github.com/aturon))
