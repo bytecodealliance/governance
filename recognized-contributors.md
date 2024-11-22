@@ -26,6 +26,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Chegham, Wassim ([@manekinekko](https://github.com/manekinekko))
 * Chu, Karen ([@karenhchu](https://github.com/karenhchu))
 * Clark, Lin ([@linclark](https://github.com/linclark))
+* Craig, Philip ([@philipc](https://github.com/philipc))
 * Crichton, Alex ([@alexcrichton](https://github.com/alexcrichton))
 * Delendik, Yury ([@yurydelendik](https://github.com/yurydelendik))
 * Dice, Joel ([@dicej](https://github.com/dicej))
