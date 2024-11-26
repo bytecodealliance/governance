@@ -64,6 +64,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Kolny, Marcin ([@loganek](https://github.com/loganek))
 * Kulakowski, George ([@kulakowski-wasm](https://github.com/kulakowski-wasm))
 * Levick, Ryan ([@rylev](https://github.com/rylev/))
+* Li Jiongqiang ([@FromLiQg])(https://github.com/FromLiQg)  
 * Liang Tianlong ([@TianlongLiang](https://github.com/TianlongLiang))
 * Litskevich, Maks ([@Zzzabiyaka](https://github.com/Zzzabiyaka))
 * Loparco, Enrico ([@eloparco](https://github.com/eloparco))
