@@ -38,6 +38,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Fontes, Lucas ([@lxfontes](https://github.com/lxfontes))
 * Freyler, Robin ([@robbepop](https://github.com/robbepop))
 * Galli, Enrico ([@egalli](https://github.com/egalli))
+* Garfinkel, Tal ([@talg](https://github.com/talg))
 * Gohman, Dan ([@sunfishcode](https://github.com/sunfishcode))
 * Goldenring, Kate ([@kate-goldenring](https://github.com/kate-goldenring))
 * Gregory, Eric ([ericgregory](https://github.com/ericgregory))
