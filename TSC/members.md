@@ -2,9 +2,9 @@
 
 ## Recognized Contributor Delegates
 
-* Fitzgerald, Nick [@fitzgen](https://github.com/fitzgen)
+* Brown, Andrew [@abrown](https://github.com/abrown)
 * Hayes, Bailey [@ricochet](https://github.com/ricochet)
-* Schneidereit, Till [@tschneidereit](https://github.com/tschneidereit)
+* Spencer, Oscar [@ospencer](https://github.com/ospencer)
 
 ## Core Project Delegates
 
