@@ -21,9 +21,9 @@ Core projects must further the mission of the Bytecode Alliance and be seen as v
 If you would like to propose that the Bytecode Alliance adopt your project as a new hosted project, you may perform the following steps:
 
 * [ ] Open a Pull Request against [the Bytecode Alliance governance repository](https://github.com/bytecodealliance/governance) with the following changes:
-  * a copy of [/templates/projects/proposal-hosted-project.md](../templates/projects/proposal-hosted-project.md), with all of the `TODO`s filled in, as a new file under `/projects/hosted/$PROJECT_NAME/proposal.md`.
+  * a copy of [templates/projects/proposal-hosted-project.md](../templates/projects/proposal-hosted-project.md), with all of the `TODO`s filled in, as a new file under `projects/hosted/$PROJECT_NAME/proposal.md`.
     * Do not make unsubstantiated claims; provide evidence. For example, if you claim that your project performs code review, provide a handful of links to pull request reviews that demonstrate this.
-  * An update to `/projects/README.md` to include an entry for the project.
+  * An update to [projects/README.md](../projects/README.md) to include an entry for the project.
 
 The Bytecode Alliance Technical Steering Committee (TSC) will then perform the following steps:
 
@@ -37,11 +37,11 @@ The Bytecode Alliance Technical Steering Committee (TSC) will then perform the f
 Once the project maintainers have come to a consensus agreement that they wish for their project's promotion to a core project, they may initiate the application process by performing the following steps:
 
 * [ ] Create a Pull Request against [the Bytecode Alliance governance repository](https://github.com/bytecodealliance/governance) with the following changes:
-  * a copy of [/templates/projects/proposal-core-project.md](../templates/projects/proposal-core-project.md), with all of the `TODO`s filled in, as a new file under `/projects/core/$PROJECT_NAME/proposal-core.md`
+  * a copy of [templates/projects/proposal-core-project.md](../templates/projects/proposal-core-project.md), with all of the `TODO`s filled in, as a new file under `projects/core/$PROJECT_NAME/proposal-core.md`
     * Do not make unsubstantiated claims; provide evidence. For example, if you claim that your project has a CI job running tests under [AddressSanitizer](https://clang.llvm.org/docs/AddressSanitizer.html), provide links to its CI configuration, test infrastructure, and bugs caught.
-  * moving any existing files from `/projects/hosted/$PROJECT_NAME` to `/projects/core/$PROJECT_NAME`
-    * If a `proposal.md` exists for the project, move it to `/projects/core/$PROJECT_NAME/proposal-hosted.md`
-  * An update to `/projects/README.md` to move the project to the list of core projects.
+  * moving any existing files from `projects/hosted/$PROJECT_NAME` to `projects/core/$PROJECT_NAME`
+    * If a `proposal.md` exists for the project, move it to `projects/core/$PROJECT_NAME/proposal-hosted.md`
+  * An update to [projects/README.md](../projects/README.md) to move the project to the list of core projects.
 
 The Bytecode Alliance Technical Steering Committee (TSC) will then perform the following steps:
 
