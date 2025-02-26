@@ -6,7 +6,7 @@ SIG-Documentation's goal is to create, maintain, and promote documentation of th
 
 The group may also create open source tooling to help generate documentation, such as reference documentation of WIT interfaces (`wit-docs-gen`).
 
-As an immediate deliverable of the SIG, the group will produce and maintain centralized documentation on the component model inside the [`component-docs` repository](github.com/bytecodealliance/component-docs). The group will communicate asynchronously (on Zulip) and synchronously through regular Zoom meetings to discuss current initiatives.
+As an immediate deliverable of the SIG, the group will produce and maintain centralized documentation on the component model inside the [`component-docs` repository](https://github.com/bytecodealliance/component-docs). The group will communicate asynchronously (on Zulip) and synchronously through regular Zoom meetings to discuss current initiatives.
 
 ## Supporting Members
 
