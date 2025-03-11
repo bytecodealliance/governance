@@ -3,13 +3,12 @@ Published: March 10, 2025
 
 ## Definition
 The Bytecode Alliance Technical Steering Committee (TSC) [charter](https://github.com/bytecodealliance/governance/blob/main/TSC/charter.md) defines two types of Bytecode Alliance Projects -- "Hosted" and "Core", saying:
-> By default a project adopted by the BA is considered a Hosted Project. The BA board designates specific projects at Core Projects, requiring adherence to heightened standards around project governance, mission alignment, communication, and security. … Core Projects must meet all the requirements of Hosted Projects, but each project has exactly one status – Hosted or Core.
+> By default a project adopted by the BA is considered a Hosted Project. The BA board also designates specific projects as Core Projects, requiring adherence to heightened standards around project governance, mission alignment, communication, and security. Core Projects must meet all the requirements of Hosted Projects, but each project has exactly one status – Hosted or Core.
 
 Further, the TSC charter lists these requirements for Hosted Projects:
 * Alignment with BA mission and goals
 * Open governance
-* Correct licenses or ability to change license to correct one
-* Apache 2.0 or exception granted by the board
+* [Correct licenses](https://github.com/bytecodealliance/governance/blob/main/templates/projects/proposal-core-project.md#licensing-compatible-with-the-bytecode-alliance) or ability to change license to correct one
 * No processes that give any organization an elevated position
 * Stricter alignment and process requirements for Core than Hosted projects
 * Good software development (pull requests, issue maintenance) and security practices (reporting, responding to issues)
