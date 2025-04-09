@@ -6,6 +6,19 @@ This directory acts as an overview of the projects that the Alliance hosts.
 
 > **Note:** This directory is currently a simple list of links to websites or repositories. We are working on a more sophisticated way of presenting this information.
 
+## Core Projects
+
+ * [Wasmtime](https://wasmtime.dev/)
+   * Repositories:
+     * [wasmtime](https://github.com/bytecodealliance/wasmtime)
+     * [wasmtime-cpp](https://github.com/bytecodealliance/wasmtime-cpp)
+     * [wasmtime-dotnet](https://github.com/bytecodealliance/wasmtime-dotnet)
+     * [wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
+     * [wasmtime-py](https://github.com/bytecodealliance/wasmtime-py)
+     * [wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb)
+     * [wasmtime.dev](https://github.com/bytecodealliance/wasmtime.dev)
+     * [wasmtime-libfuzzer-corpus](https://github.com/bytecodealliance/wasmtime-libfuzzer-corpus)
+
 ## Hosted Projects
 
  * [cap-std](https://github.com/bytecodealliance/cap-std)
@@ -41,16 +54,6 @@ This directory acts as an overview of the projects that the Alliance hosts.
      * [wamr.dev](https://github.com/bytecodealliance/wamr.dev)
  * [wasm-pkg-tools](https://github.com/bytecodealliance/wasm-pkg-tools)
  * [wasm-tools](https://github.com/bytecodealliance/wasm-tools)
- * [Wasmtime](https://wasmtime.dev/)
-   * Repositories:
-     * [wasmtime](https://github.com/bytecodealliance/wasmtime)
-     * [wasmtime-cpp](https://github.com/bytecodealliance/wasmtime-cpp)
-     * [wasmtime-dotnet](https://github.com/bytecodealliance/wasmtime-dotnet)
-     * [wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
-     * [wasmtime-py](https://github.com/bytecodealliance/wasmtime-py)
-     * [wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb)
-     * [wasmtime.dev](https://github.com/bytecodealliance/wasmtime.dev)
-     * [wasmtime-libfuzzer-corpus](https://github.com/bytecodealliance/wasmtime-libfuzzer-corpus)
  * [weval](https://github.com/bytecodealliance/weval)
  * [wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
  * [wit-deps](https://github.com/bytecodealliance/wit-deps)
