@@ -11,13 +11,11 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [Wasmtime](https://wasmtime.dev/)
    * Repositories:
      * [wasmtime](https://github.com/bytecodealliance/wasmtime)
-     * [wasmtime-cpp](https://github.com/bytecodealliance/wasmtime-cpp)
      * [wasmtime-dotnet](https://github.com/bytecodealliance/wasmtime-dotnet)
      * [wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
      * [wasmtime-py](https://github.com/bytecodealliance/wasmtime-py)
      * [wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb)
      * [wasmtime.dev](https://github.com/bytecodealliance/wasmtime.dev)
-     * [wasmtime-libfuzzer-corpus](https://github.com/bytecodealliance/wasmtime-libfuzzer-corpus)
 
 ## Hosted Projects
 

@@ -18,7 +18,7 @@ Wasmtime is a lightweight WebAssembly runtime that is fast, secure, and standard
 >
 > The Bytecode Alliance is a group with a specific mission, and we therefore will only sponsor projects that are in alignment with and further that mission. For example, project sponsorship is untenable if the project undermines sandboxing, security, or standardization efforts.
 
-From its inception as a project, Wasmtime has been focused on the same goals the Bytecode Alliance is pursuing as a whole. As such, it has factually always served as a core part of how the Bytecode Alliance is pursuing its mission, and has always strived to hold itself to the highest standards.
+From its inception as a project, Wasmtime has been focused on the same goals the Bytecode Alliance is pursuing as a whole. As such, it has always served as a core part of how the Bytecode Alliance is pursuing its mission, and has always strived to hold itself to the highest standards.
 
 The [original announcement](https://bytecodealliance.org/articles/announcing-the-bytecode-alliance) of the Bytecode Alliance introduced the term "nanoprocess": a fine-grained unit of composable functionality which gets access to those, and only those, capabilities it needs to serve its purpose. This concept ultimate became the foundation of the [WebAssembly Component Model](https://component-model.bytecodealliance.org/), with [WASI](https://wasi.dev/) as a set of standardized APIs to facilitate communication with outside systems.
 
