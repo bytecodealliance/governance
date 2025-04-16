@@ -44,3 +44,9 @@ The following are minimum requirements of running a SIG:
 - Conversations about meetings should take place in the SIG's stream on Zulip, including discussion of agenda topics, proposals to move/cancel a meeting, or important changes in meeting logistics.
 
 In addition to the `meetings` repository mentioned above for publishing meeting agenda and minutes, the Bytecode Alliance maintains a Zoom account to enable video meeting support and recording for all SIGs, and a YouTube account for sharing meeting recordings publicly.
+
+### Using SIG Admin Zoom
+
+As part of being onboarded as a SIG chair, the chairs are granted access to 1Password and SIG Admin Zoom credentials. The chair of the meeting should use this account to login and manage the zoom meeting. Two-factor is required on this account and when logging into Zoom, there will be a two-factor code sent to the sig-admin google group. 
+
+To get the two-factor code, navigate to https://groups.google.com/ and open the sig-admin group.
