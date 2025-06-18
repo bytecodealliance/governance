@@ -3,7 +3,7 @@
 This document is a proposal to create @bytecodealliance/jco-transpile as a formal Hosted Project under the auspices of
 the TSC of the Bytecode Alliance, as specified in the TSC’s charter.
 
-Proposing the adoption of `jco-tranpsile` as a Bytecode Alliance hosted project.
+Proposing the adoption of `jco-transpile` as a Bytecode Alliance hosted project.
 
 Current Repository URL: https://github.com/bytecodealliance/jco
 
