@@ -44,6 +44,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Garfinkel, Tal ([@talg](https://github.com/talg))
 * Gohman, Dan ([@sunfishcode](https://github.com/sunfishcode))
 * Goldenring, Kate ([@kate-goldenring](https://github.com/kate-goldenring))
+* Grape, MangoPeach ([@MangoPeachGrape](https://github.com/MangoPeachGrape))
 * Gregory, Eric ([ericgregory](https://github.com/ericgregory))
 * Hardock, Brian ([@fibonacci1729](https://github.com/fibonacci1729))
 * Hayes, Bailey ([@ricochet](https://github.com/ricochet))
