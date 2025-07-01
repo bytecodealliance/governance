@@ -380,7 +380,7 @@ for major changes that affect the parser's compatibility with the WIT
 specification, changes to supported language bindings, or modifications that
 could impact downstream tooling integration.
 
-Given the project's role in validating WIT language evolution, RFCs would largely
+Given the project's role in validating WIT specification, RFCs would largely
 be based around grammar correctness.
 
 ### Production Use
