@@ -2,13 +2,24 @@
 
 This document is a proposal to create tree-sitter-wit as a formal Hosted Project under the auspices of the TSC of the Bytecode Alliance, as specified in the TSC’s charter.
 
-Proposing the adoption of TODO as a Bytecode Alliance hosted project.
+Proposing the adoption of tree-sitter-wit as a Bytecode Alliance hosted project.
 
 Current Repository URL: https://github.com/liamwh/tree-sitter-wit
 
 Proposed Repository URL: https://github.com/bytecodealliance/tree-sitter-wit
 
-TODO: One paragraph describing what the project is, what its goals are, and etc...
+_tree-sitter-wit_ is a Tree-sitter grammar implementation for WebAssembly
+Interface Types (WIT), providing syntax highlighting, parsing, and language
+support for WIT files in various editors and development environments. The
+project enables developers working with [WebAssembly Component
+Model](https://github.com/WebAssembly/component-model) interfaces to have rich
+editor support including syntax highlighting, code folding, and structural
+parsing capabilities.
+
+As WIT is a core, but rapidly changing, interface definition language for
+WebAssembly components and WASI, this tooling can enable automated testing of design specs
+to [minimise regressions and inconsistencies as the specification evolves](
+https://github.com/WebAssembly/component-model/pull/484) (this "bug" was found by running the ebnf through _tree-sitter-wit_).
 
 ## Requirements
 
@@ -20,7 +31,23 @@ TODO: One paragraph describing what the project is, what its goals are, and etc.
 >
 > The Bytecode Alliance is a group with a specific mission, and we therefore will only sponsor projects that are in alignment with and further that mission. For example, project sponsorship is untenable if the project undermines sandboxing, security, or standardization efforts.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+_tree-sitter-wit_ provides language toolchain infrastructure for WebAssembly
+Component Model interfaces.
+The project supports BA's modularity goals by providing syntax
+highlighting, parsing, and editor support for component interfaces, and
+supports standardization efforts by implementing proper tooling for the WIT
+specification instantly in these [supported languages](https://tree-sitter.github.io/tree-sitter/#language-bindings):
+
+* C#
+* Go
+* Haskell
+* Java (JDK 22)
+* JavaScript (Node.js)
+* JavaScript (Wasm)
+* Kotlin
+* Python
+* Rust
+* Zig
 
 ### Code Review
 
@@ -32,7 +59,10 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Code reviews have a demonstrable impact on the quality of source code by catching bugs early, determining the best possible implementation, and fostering trust within the community. Timely responses let contributors know that their work is valued and encourages further contribution.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+All proposed changes (Pull Requests) go through pull requests and CI validation
+before merging. The project has comprehensive automated testing via GitHub
+Actions that includes multi-platform testing (Ubuntu, Windows, macOS), parser
+testing, and example parsing validation.
 
 ### Code of Conduct
 
@@ -43,7 +73,10 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Having a code of conduct is crucial for creating a positive and respectful environment in any organization, community, or group. It serves as a set of guidelines that outline expected behavior and ethical standards for all members involved.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project currently lacks a formal Code of Conduct document. If and when the
+BA chooses to adopt this proposal, a `CODE_OF_CONDUCT.md` file linking to the
+Bytecode Alliance's Code of Conduct will be added to the repository root, and
+maintainers will commit to enforcing the code of conduct.
 
 ### Continuous Integration Testing
 
@@ -53,7 +86,15 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Implementing CI offers several benefits to software projects, helping ensure correctness and quality, making it an essential practice for modern software development.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project has comprehensive CI testing implemented via GitHub Actions. The
+[main CI workflow](https://github.com/liamwh/tree-sitter-wit/blob/main/.github/workflows/ci.yml)
+runs on all pushes and pull requests, testing across multiple platforms
+(Ubuntu, Windows, macOS-14) and includes parser testing and example parsing
+validation. Additional workflows include [grammar linting](https://github.com/liamwh/tree-sitter-wit/blob/main/.github/workflows/lint-grammar.yml),
+[query file validation](https://github.com/liamwh/tree-sitter-wit/blob/main/.github/workflows/queries-ci.yml),
+and [fuzz testing](https://github.com/liamwh/tree-sitter-wit/blob/main/.github/workflows/fuzz.yml).
+All CI processes are reproducible by external contributors and core language
+features are tested via the [corpus tests](https://github.com/liamwh/tree-sitter-wit/tree/main/test/corpus).
 
 ### Contributor Documentation
 
@@ -63,7 +104,17 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > A `CONTRIBUTING.md` serves as a guide for potential contributors, outlining the expectations for individuals who wish to contribute to the project. The Bytecode Alliance is a community-driven software foundation and documents like `CONTRIBUTING.md` are necessary for fostering community contributions.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project has a comprehensive `CONTRIBUTING.md` file [here](
+https://github.com/liamwh/tree-sitter-wit/blob/main/CONTRIBUTING.md) providing
+detailed guidance for contributors including:
+* how to create tests
+* modify the grammar
+* use `just` commands for development
+* comply with current tree-sitter standards
+
+The documentation includes specific instructions for
+testing, formatting, and development workflows, making it easy for new
+contributors to get started and understand the project's conventions.
 
 ### Following the Bytecode Alliance Operational Principles
 
@@ -71,7 +122,10 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > In pursuing our mission and vision, the Bytecode Alliance follows a set of operational principles aimed at keeping us aligned on three key aspects: what we want to create, how we want to work together, and how we want to work with others.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project demonstrates alignment with BA operational principles through its
+commitment to broad testing coverage, building for consistency and
+interoperability (following tree-sitter ecosystem standards), and facilitating
+collaboration (open source development with clear contribution guidelines).
 
 ### Licensing Compatible with the Bytecode Alliance
 
@@ -98,7 +152,13 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > We strive to build an open community and a legally-compatible software ecosystem.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project is [already licensed under Apache-2.0 WITH LLVM-exception](
+https://github.com/liamwh/tree-sitter-wit/pull/20).
+
+Dependencies are limited and use compatible licenses: tree-sitter ecosystem
+packages, standard Node.js/Rust build tools (node-addon-api, cc crate), and
+development tools (ESLint, tree-sitter-cli). The project is fully open source
+and available to all under the same license terms.
 
 ### README
 
@@ -110,7 +170,15 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > The most important information about the project should be "above the fold". Projects should identify themselves as Bytecode Alliance projects so that, with time, people associate the Bytecode Alliance with quality projects that they can rely on.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project has a comprehensive README.md
+(https://github.com/liamwh/tree-sitter-wit/blob/main/README.md) with:
+* the project name
+* a clear description ("WebAssembly Interface Types (WIT) grammar for tree-sitter")
+* installation instructions & examples
+
+The README will be updated to include the required Bytecode Alliance hosted
+project designation and ensure all key information is prominently displayed
+above the fold.
 
 ### Release Process
 
@@ -122,8 +190,8 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Automation makes fewer mistakes than humans, and getting releases right is critical, since only releases are typically used downstream, not random commits from `main`.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
-
+The project currently uses semantic versioning (v1.1.0) and should be able to publish to
+popular registries such as npm and crates.io.
 ### Security Process
 
 > All projects must have a documented security process for reporting and disclosing vulnerabilities, managing patches that fix vulnerabilities, and announcing and making available security releases. Furthermore, projects must actually follow their documented processes.
@@ -134,7 +202,16 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Bytecode Alliance projects must be a secure foundation for others to build upon. Transparency and a managed security release process is key to being this foundation.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project currently lacks a formal security process documentation. If and
+when the proposal is approved, a security policy will be established including
+vulnerability reporting procedures, security release processes, and appropriate
+escalation mechanisms. The project has minimal dependencies and automates
+[fuzzing in CI](
+https://github.com/liamwh/tree-sitter-wit/blob/main/.github/workflows/fuzz.yml)
+to avoid potential security issues in the parser.
+
+Dependabot or similar tooling can be added for security-only updates with
+manual approval processes.
 
 ### Semantic Versioning
 
@@ -142,7 +219,8 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > A clear versioning scheme is necessary for end-users. We desire consistency across projects and so the Bytecode Alliance has adopted semantic versioning as a required best practice.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project follows semantic versioning as evidenced by the current version
+[_1.1.0_ in the repository](https://github.com/search?q=repo%3Aliamwh%2Ftree-sitter-wit%201.1.0&type=code).
 
 ### Secrets Management
 
@@ -152,7 +230,14 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Secure secret management is a requirement for a secure project. Additionally, projects and their associated accounts shouldn't be tied to any single user's machine or keys to ensure continuity of the project. A project isn't an open, community project if only one person can access its accounts.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project has no hardcoded secrets in the source code. The current CI
+workflows use only standard GitHub Actions and do not require any secrets.
+
+If automated deployment to package manager registries is added (npm,
+crates.io), any required secrets for publishing to package registries will be
+managed through GitHub organization-level secrets, and publishing credentials
+will be managed through BA's established processes to ensure continuity and
+shared access among maintainers.
 
 ### Supply Chain Security
 
@@ -165,9 +250,11 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Finally, projects must document and follow their process for responding to upstream vulnerabilities in dependencies.
 >
-> Our mission of developing runtime environments and language toolchains where security, efficiency, and modularity can all coexist necessarily means that we have performed our due dilligence to mitigate software supply chain attacks.
+> Our mission of developing runtime environments and language toolchains where security, efficiency, and modularity can all coexist necessarily means that we have performed our due diligence to mitigate software supply chain attacks.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project has a minimal dependency footprint, using primarily tree-sitter
+ecosystem packages and standard build tools. Dependencies are locked via
+Cargo.lock and pnpm-lock.yaml files.
 
 ### Sustainable Contributor Base
 
@@ -181,15 +268,24 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > The TSC may waive the above contributor base requirements under certain conditions. In particular, the TSC may decide to adopt crucial upstream dependencies of existing Bytecode Alliance projects that are otherwise effectively unmaintained or only have a single maintainer.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project currently two primary maintainers (Liam Woodleigh-Hardinge, Mikhail Katychev).
 
+The project has comprehensive documentation enabling new contributors to get
+involved, and there is no private information required for contribution.
 ### Version Control
 
 > All projects must be hosted on [the Bytecode Alliance Organization](github.com/bytecodealliance) on GitHub.
 >
 > Access controls are managed via the Bytecode Alliance organization on GitHub. This allows for continuity of the project when hosted in one place. Finally, this is the only way to reasonable manage the projects within the organization.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project is currently hosted at https://github.com/liamwh/tree-sitter-wit
+and will be transferred to the Bytecode Alliance GitHub organization
+(github.com/bytecodealliance/tree-sitter-wit) upon adoption. The repository
+includes full history, comprehensive CI/CD configuration, and all project
+assets necessary for the transfer.
+
+Access controls will be managed through BA
+organizational settings upon transfer.
 
 ## Recommendations
 
@@ -201,7 +297,10 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > We are building an ecosystem that developers can depend on, and one small part of that is communicating important changes downstream.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project currently does not maintain a formal changelog. If and when this
+proposal is approved, a CHANGELOG.md file following the keepachangelog.com
+format will be established to document releases, breaking changes, and
+noteworthy updates for downstream users and integrators.
 
 ### Continuous Fuzzing
 
@@ -215,7 +314,11 @@ TODO: discussion of this recommendation and any supporting evidence (such as lin
 >
 > Continuous fuzzing is a valuable practice for projects, due to its significant benefits in improving security and reliability. Within the Bytecode Alliance, we host projects that provide a sandbox. The fidelity of these sandboxes must be battle-tested via a number of methodologies including automated fuzzing.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project already implements parser fuzzing via [GitHub Actions](
+https://github.com/liamwh/tree-sitter-wit/blob/main/.github/workflows/fuzz.yml)
+using tree-sitter's fuzzing infrastructure. This fuzzing tests the parser
+against various input combinations to identify potential crashes or incorrect
+parsing behavior.
 
 ### End-User Documentation
 
@@ -234,7 +337,14 @@ TODO: discussion of this recommendation and any supporting evidence (such as lin
 >
 > Documentation is necessary for end-users to productively use the project; source code comments are not sufficient.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project provides comprehensive end-user documentation including
+installation instructions for multiple editors (Neovim with detailed setup for
+Lazy.nvim and manual installation), examples of [WIT syntax
+highlighting](https://github.com/liamwh/tree-sitter-wit/blob/main/docs/images/highlighting-example.png),
+and [example WIT
+files](https://github.com/liamwh/tree-sitter-wit/tree/main/examples). The
+README documents how to use the parser across different language bindings
+(Node.js, Rust, Python, Go, Swift, C).
 
 ### Issue Triage Process
 
@@ -244,7 +354,8 @@ TODO: discussion of this recommendation and any supporting evidence (such as lin
 >
 > For a successful community-driven project, expedient communication within issues and PRs encourages further collaboration and contribution.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project uses GitHub Issues for tracking but currently lacks a formal issue
+triage process.
 
 ### Leverage the Bytecode Alliance RFC Process
 
@@ -264,7 +375,13 @@ TODO: discussion of this recommendation and any supporting evidence (such as lin
 >
 > This is a best practice for aligning contributors, the community, and downstream projects' needs with proposed technical implementations.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project will adopt the Bytecode Alliance RFC process
+for major changes that affect the parser's compatibility with the WIT
+specification, changes to supported language bindings, or modifications that
+could impact downstream tooling integration.
+
+Given the project's role in validating WIT language evolution, RFCs would largely
+be based around grammar correctness.
 
 ### Production Use
 
@@ -274,7 +391,9 @@ TODO: discussion of this recommendation and any supporting evidence (such as lin
 >
 > Projects should demonstrate that they are practical, useful, and reliable enough to use in production.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project has two current production project adopers:
+* [The Topiary formatter](https://topiary.tweag.io/book/reference/language-support.html?highlight=wit#contributed)
+* [wit-lsp](https://github.com/Michael-F-Bryan/wit-lsp)
 
 ### Public Project Meetings and Notes
 
@@ -284,7 +403,8 @@ TODO: discussion of this recommendation and any supporting evidence (such as lin
 >
 > Public meetings encourage open communication, collaboration, and engagement within the project's community. Notes allow community members who were not present to remain aligned and can document any decisions made during the meeting.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project currently does not hold regular meetings given it aims to follow the
+ratification process of the WIT specification.
 
 ### Sanitizers and Code Analysis
 
@@ -294,4 +414,7 @@ TODO: discussion of this recommendation and any supporting evidence (such as lin
 >
 > Automated code analysis is key to meeting our mission of developing runtime environments and language toolchains where security, efficiency, and modularity can all coexist.
 
-TODO: discussion of this recommendation and any supporting evidence (such as links to code, documentation, issues, and pull requests)
+The project includes generated C code for the parser and uses ESLint for
+JavaScript grammar linting
+(https://github.com/liamwh/tree-sitter-wit/blob/main/.github/workflows/lint-grammar.yml).
+Generated (C code) Code Analysis is done through `tree-sitter test`.
