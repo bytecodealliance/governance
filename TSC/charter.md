@@ -156,9 +156,11 @@ If, during review, it is determined that a project is best continued outside of 
 
 # Recognized Contributors
 
-Per section 5.5.c of the BA’s bylaws, the TSC is tasked with establishing and overseeing the Recognized Contributors Program (“RC Program”). The RC Program governs how individual contributors to the BA participate in governance, including through nominating candidates and voting in elections for the At-Large Director(s) on the BA’s Board per section 4.4.b.iv of the BA’s bylaws, and through participating in elections to the TSC.
+The Bytecode Alliance receives contributions from a large number of individuals. Some of them are associated with member organizations, but many aren't. Regardless of their affiliation, the BA's board and TSC want to give these contributors both explicit recognition and the ability to influence governance through participation in elections to the board and the TSC. The Recognized Contributors Program ("RC Program") realizes both of these goals.
 
-A Recognized Contributor (“RC”) is an individual who is actively involved in the Bytecode Alliance and/or its hosted projects or groups and helps further the BA’s goals. While it is expected that many RCs will be tightly associated with specific hosted projects or groups, the RC status is not tied to projects or groups, and there are no per-project or -group quotas for RCs.
+Per section 5.5.c of the BA’s bylaws, the RC Program governs how individual contributors to the BA participate in governance, including through nominating candidates and voting in elections for the At-Large Director(s) on the BA’s Board per section 4.4.b.iv of the BA’s bylaws, and through participating in elections to the TSC. The TSC originally established, and now oversees the RC Program.
+
+A Recognized Contributor (“RC”) is an individual who is actively involved in the Bytecode Alliance and/or its hosted projects or groups and helps further the BA’s goals. While many RCs are tightly associated with specific hosted projects or groups, the RC status is not tied to specific projects or groups, and there are no per-project or -group quotas for RCs.
 
 Because there are many ways to support the BA’s goals, and not all of them are easy to capture in strict definitions, what “actively involved” means is intentionally kept vague. Similarly, the process for determining RCs is intentionally low-friction:
 
@@ -176,9 +178,7 @@ The process for merging or closing such a Pull Request is as follows:
 
 * If no positive decision is made, the TSC may choose to provide feedback to the candidate on how to amend the application, or close the Pull Request unmerged with an explanation for why the application was not accepted at this time
 
-While membership in the RC Program doesn’t require active renewal, the TSC will from time to time, and at least before elections to the TSC or for the At-Large Director positions evaluate the list of current RCs to determine whether all members are still actively involved. Since the principal duty of an RC is to participate in the BA’s governance, voting in the relevant elections is considered a requirement for retaining RC status in addition to active involvement. An RC might be determined inactive if they fail to vote in 2 or more consecutive elections, and would have to be nominated again to regain RC status. If any current members are determined not to be active anymore, the TSC will at a meeting ratify (or modify) this determination and then update the list accordingly.
-
-The RC Program will be established and run by a bootstrapping task force appointed by the board (proto-TSC) until the first TSC election.
+While membership in the RC Program doesn’t require active renewal, the TSC will from time to time, and at least before elections to the TSC or for the At-Large Director positions evaluate the list of current RCs to determine whether all members are still actively involved. An RC may be deemed inactive if they have not actively contributed to any Bytecode Alliance projects or groups for a year or more. In such cases, they would need to be re-nominated to regain RC status. If any current members are determined to no longer be active, the TSC will ratify (or modify) this determination during a meeting and then update the list accordingly.
 
 # Special Interest Groups
 
