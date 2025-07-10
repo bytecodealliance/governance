@@ -30,6 +30,7 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [Javy](https://github.com/bytecodealliance/javy)
  * [jco](https://github.com/bytecodealliance/jco)
  * [regalloc2](https://github.com/bytecodealliance/regalloc2)
+ * [regalloc3](https://github.com/bytecodealliance/regalloc3)
  * [Warg](https://github.com/bytecodealliance/registry)
  * [rust-oci-wasm](https://github.com/bytecodealliance/rust-oci-wasm)
  * [rustix](https://github.com/bytecodealliance/rustix)
