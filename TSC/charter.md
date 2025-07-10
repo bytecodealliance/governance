@@ -178,7 +178,7 @@ The process for merging or closing such a Pull Request is as follows:
 
 * If no positive decision is made, the TSC may choose to provide feedback to the candidate on how to amend the application, or close the Pull Request unmerged with an explanation for why the application was not accepted at this time
 
-While membership in the RC Program doesn’t require active renewal, the TSC will from time to time, and at least before elections to the TSC or for the At-Large Director positions evaluate the list of current RCs to determine whether all members are still actively involved. An RC might be determined inactive if they have not actively contributed to any Bytecode Alliance projects or groups for an extended period of time, and would have to be nominated again to regain RC status. If any current members are determined not to be active anymore, the TSC will at a meeting ratify (or modify) this determination and then update the list accordingly.
+While membership in the RC Program doesn’t require active renewal, the TSC will from time to time, and at least before elections to the TSC or for the At-Large Director positions evaluate the list of current RCs to determine whether all members are still actively involved. An RC may be deemed inactive if they have not actively contributed to any Bytecode Alliance projects or groups for a year or more. In such cases, they would need to be re-nominated to regain RC status. If any current members are determined to no longer be active, the TSC will ratify (or modify) this determination during a meeting and then update the list accordingly.
 
 # Special Interest Groups
 
