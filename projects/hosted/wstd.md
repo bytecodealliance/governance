@@ -140,7 +140,7 @@ collaboration (open source development with clear contribution guidelines).
 >
 > We strive to build an open community and a legally-compatible software ecosystem.
 
-The project [is licensed] with "MIT OR Apache-2.0 OR Apache-2.0 WITH LLVM-exception" in current releases. In order to confirm to the BA licensing rules, we have reduced that to only "Apache-2.0 WITH LLVM-exception" in [#72].
+The project [is licensed] with "MIT OR Apache-2.0 OR Apache-2.0 WITH LLVM-exception" in current releases. In order to conform to the BA licensing rules, we have reduced that to only "Apache-2.0 WITH LLVM-exception" in [#72].
 
 [is licensed]: https://github.com/yoshuawuyts/wstd/blob/main/Cargo.toml#L50
 
