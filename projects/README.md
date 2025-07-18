@@ -57,6 +57,7 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [wit-deps](https://github.com/bytecodealliance/wit-deps)
  * [Wizer](https://github.com/bytecodealliance/wizer)
  * [wRPC](https://github.com/bytecodealliance/wrpc)
+ * [wstd](https://github.com/bytecodealliance/wstd)
 
 ## Archived Projects
 
