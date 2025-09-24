@@ -54,7 +54,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 
 ### Continuous Fuzzing
 
-> Not all projects will necessarily benefit from fuzzing, for example benchmark suites. The TSC may choose lift this requirement for a particular project.
+> Not all projects will necessarily benefit from fuzzing, for example benchmark suites. The TSC may choose to lift this requirement for a particular project.
 >
 > It is required that core projects have continuous fuzzing, for example in [OSS-Fuzz](https://github.com/google/oss-fuzz). The fuzzing must exercise significant amounts of the code base and test the project's most important properties, such as sandboxing. Bugs and vulnerabilities discovered via fuzzing must be addressed promptly.
 >
