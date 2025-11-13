@@ -130,7 +130,7 @@ By default, a project adopted by the BA is considered a Hosted Project. The BA b
 
 * Correct licenses or ability to change license to correct one
 
-* Apache 2.0 or exception granted by the board
+* Apache-2.0 WITH LLVM-exception or exception granted by the board
 
 * No processes that give any organization an elevated position
 
