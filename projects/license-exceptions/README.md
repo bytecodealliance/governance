@@ -41,3 +41,32 @@ The [StarlingMonkey project](https://github.com/bytecodealliance/StarlingMonkey/
 ### Motivation
 
 Enabling easy use of upstream code from the [Servo project](https://servo.org/).
+
+## Sightglass
+
+### Overall license
+
+The [Sightglass project](https://github.com/bytecodealliance/sightglass/) has received approval
+to use a dual license of `Apache-2.0 OR MIT` for the entire code base.
+
+#### Motivation
+
+The Sightglass project was initially contributed under its current license by Fastly. The licensing
+is a historic accident: the license should've been changed to the default Project License at the
+time. Instead of going through a very time-consuming process to rectify this situation now, the
+board grants a retroactive exception to retain the current license.
+
+### Licenses for specific benchmark test cases under the `benchmarks` folder
+
+The [Sightglass project](https://github.com/bytecodealliance/sightglass/) has received approval
+to use any OSI approved license compatible with the overall licensing for code in individual test
+cases under the [benchmarks](https://github.com/bytecodealliance/sightglass/tree/main/benchmarks)
+folder, as long as that code is solely used for the purpose of being run as benchmark test cases,
+not integration into any other project or product.
+
+#### Motivation
+
+Sightglass is a harness for running a set of benchmarks against WebAssembly runtimes. To facilitate
+best coverage of scenarios, Sightglass needs the ability to run as large a set of pre-existing
+benchmark test cases as possible. This requires being able to integrate code under a variety of
+licenses, as long as these licenses are compatible with the overall project licenses.
