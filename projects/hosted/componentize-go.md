@@ -33,7 +33,7 @@ We understand and agree that:
 
 
 ## Supporting Members
-The following individuals support the creation of componentize-py:
+The following individuals support the creation of componentize-go:
 
 * Andrew Steurer (@asteurer, Volunteer)
 
