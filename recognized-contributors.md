@@ -83,6 +83,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Narayan, Shravan ([@shravanrn](https://github.com/shravanrn))
 * Nason, Benbuck ([@bnason-nf](https://github.com/bnason-nf))
 * Noorali, Michelle ([@michelleN](https://github.com/michelleN))
+* Olvecký, Tomáš ([@tomasol](https://github.com/tomasol))
 * Parker, Sam ([@sparker-arm](https://github.com/sparker-arm))
 * Penzin, Petr ([@ppenzin](https://github.com/ppenzin))
 * Prewitt, Calvin ([@calvinrp](https://github.com/calvinrp))
