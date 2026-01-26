@@ -14,6 +14,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Birch Jr, Johnnie L ([@jlb6740](https://github.com/jlb6740))
 * bjorn3 ([@bjorn3](https://github.com/bjorn3))
 * Bofarull, Antoni ([@tonibofarull](https://github.com/tonibofarull))
+* Bongjun, Jang ([@bongjunj](https://github.com/bongjunj))
 * Bordado, Afonso ([@afonso360](https://github.com/afonso360))
 * Bourassa, Jimmy ([@jbourassa](https://github.com/jbourassa))
 * Bouvier, Benjamin ([@bnjbvr](https://github.com/bnjbvr))
