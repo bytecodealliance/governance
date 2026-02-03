@@ -23,6 +23,7 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [cargo-component](https://github.com/bytecodealliance/cargo-component)
  * [cargo-wasi](https://github.com/bytecodealliance/cargo-wasi)
  * [componentize-dotnet](https://github.com/bytecodealliance/componentize-dotnet/)
+ * [componentize-go](https://github.com/bytecodealliance/componentize-go)
  * [ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS)
  * [componentize-py](https://github.com/bytecodealliance/componentize-py)
  * [Cranelift](https://cranelift.dev/)
