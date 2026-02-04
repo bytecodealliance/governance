@@ -1,12 +1,15 @@
-# Proposal to Create Open POSIX Test Suite Fork
+# Proposal to Create `wasi-libc-test-suites`
 
-This document is a proposal to create a fork of the Open POSIX Test Suite as a formal Hosted Project under the auspices of the TSC of the Bytecode Alliance, as specified in the TSC’s charter. This would be done in aid of the development of `wasi-libc`, and will only exist as a repository for testing infrastructure rather than an actively-developed project for end-users.
+This document is a proposal to create a `wasi-libc-test-suites` project as a formal Hosted Project under the auspices of the TSC of the Bytecode Alliance, as specified in the TSC’s charter. This would be done in aid of the development of `wasi-libc`, and the repositories will only exist for testing infrastructure rather than an actively-developed project for end-users.
 
-Proposed Repository URL: https://github.com/BytecodeAlliance/open-posix-test-suite 
+This project would consist of two repositories: the existing [`libc-test`](https://github.com/bytecodealliance/libc-test) repository, which is a fork of the test suite for [`musl`](https://musl.libc.org/), and a new repository at https://github.com/BytecodeAlliance/open-posix-test-suite, which will be a new fork of the [Open POSIX Test Suite](https://posixtest.sourceforge.net/).
+
+The `libc-test` repository is already actively used by the test suite for `wasi-libc`, but it is not adopted under a formal Hosted Project, and does not have an official license exception, even though it requires one. Adopting it as part of the `wasi-libc-test-suites` Hosted Project would remedy these.
 
 The Open POSIX Test Suite is a free software test suite for POSIX 2001 APIs. Notably, it includes significant testing for `pthreads` APIs, which are [currently being implemented for `wasi-libc`](https://github.com/WebAssembly/wasi-libc/pull/715) as part of the wider work towards [shipping WASIp3](https://github.com/orgs/bytecodealliance/projects/16/views/1). Extensive automated testing for the `pthreads` implementation is an important step towards building confidence in our infrastructure for multi-threaded programming and ensuring it is production-ready.
 
-The test suite requires modification to fit in with the `wasi32-wasip3` target, as some assumptions are made in the code base that do not hold true, or support is expected for features that cannot be implemented in `wasi-libc` currently. As such, I propose we fork the repository under the Bytecode Alliance and make the necessary changes there such that the source code for the test suite can be pulled in by the `wasi-libc` build system and tested against. We do exactly this today for [`musl`'s test suite](https://github.com/bytecodealliance/libc-test).   
+The test suite requires modification to fit in with the `wasi32-wasip3` target, as some assumptions are made in the code base that do not hold true, or support is expected for features that cannot be implemented in `wasi-libc` currently. As such, I propose we fork the repository under the Bytecode Alliance and make the necessary changes there such that the source code for the test suite can be pulled in by the `wasi-libc` build system and tested against. 
+
 
 ## Requirements
 
@@ -41,7 +44,7 @@ This will be done under the purview of `wasi-libc`.
 >
 > Having a code of conduct is crucial for creating a positive and respectful environment in any organization, community, or group. It serves as a set of guidelines that outline expected behavior and ethical standards for all members involved.
 
-This will be added as part of the forking process.
+This will be added as part of the forking process for `open-posix-test-suite`, and will be added as a PR for `libc-test`.
 
 ### Continuous Integration Testing
 
@@ -51,7 +54,7 @@ This will be added as part of the forking process.
 >
 > Implementing CI offers several benefits to software projects, helping ensure correctness and quality, making it an essential practice for modern software development.
 
-This will be integrated into the CI testing for `wasi-libc`, in the same way that musl's test suite is (see the [CMake file for testing](https://github.com/WebAssembly/wasi-libc/blob/main/test/CMakeLists.txt) and the [GitHub actions workflow](https://github.com/WebAssembly/wasi-libc/blob/main/.github/workflows/main.yml))
+`open-posix-test-suite` will be integrated into the CI testing for `wasi-libc`, in the same way that `libc-test` is (see the [CMake file for testing](https://github.com/WebAssembly/wasi-libc/blob/main/test/CMakeLists.txt) and the [GitHub actions workflow](https://github.com/WebAssembly/wasi-libc/blob/main/.github/workflows/main.yml))
 
 ### Contributor Documentation
 
@@ -61,7 +64,7 @@ This will be integrated into the CI testing for `wasi-libc`, in the same way tha
 >
 > A `CONTRIBUTING.md` serves as a guide for potential contributors, outlining the expectations for individuals who wish to contribute to the project. The Bytecode Alliance is a community-driven software foundation and documents like `CONTRIBUTING.md` are necessary for fostering community contributions.
 
-This will be added as part of the forking process.
+This will be added as part of the forking process for `open-posix-test-suite`, and will be added as a PR for `libc-test`.
 
 ### Following the Bytecode Alliance Operational Principles
 
@@ -69,7 +72,7 @@ This will be added as part of the forking process.
 >
 > In pursuing our mission and vision, the Bytecode Alliance follows a set of operational principles aimed at keeping us aligned on three key aspects: what we want to create, how we want to work together, and how we want to work with others.
 
-This project fill follow the same principles as `wasi-libc`. 
+This project will follow the Bytecode Alliance Operation Principles.
 
 ### Licensing Compatible with the Bytecode Alliance
 
@@ -96,7 +99,9 @@ This project fill follow the same principles as `wasi-libc`.
 >
 > We strive to build an open community and a legally-compatible software ecosystem.
 
-The fork will be required to be licensed under [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). As such, this fork would require a licensing exception. This code will _not_ be shipped in any distribution of `wasi-libc`: it will only be pulled down during testing for building and immediately executing the test suite. The built test suite will _not_ be distributed. See the [CMake file for testing](https://github.com/WebAssembly/wasi-libc/blob/main/test/CMakeLists.txt) for how this is currently implemented for the musl testing suite. This approach avoids `wasi-libc` and any projects that depend on `wasi-libc` from the necessity of being GPL-licensed.
+`open-posix-test-suite` will be required to be licensed under [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). As such, this fork would require a licensing exception. This code will _not_ be shipped in any distribution of `wasi-libc`: it will only be pulled down during testing for building and immediately executing the test suite. The built test suite will _not_ be distributed. See the [CMake file for testing](https://github.com/WebAssembly/wasi-libc/blob/main/test/CMakeLists.txt) for how this is currently implemented for the musl testing suite. This approach avoids `wasi-libc` and any projects that depend on `wasi-libc` from the necessity of being GPL-licensed.
+
+`libc-test` requires a retroactive license exception as it is [MIT-licensed](https://github.com/bytecodealliance/libc-test/blob/master/COPYRIGHT).
 
 ### README
 
@@ -108,7 +113,9 @@ The fork will be required to be licensed under [GPLv2](https://www.gnu.org/licen
 >
 > The most important information about the project should be "above the fold". Projects should identify themselves as Bytecode Alliance projects so that, with time, people associate the Bytecode Alliance with quality projects that they can rely on.
 
-This will be written as part of the forking process and will contain details about its role in the WASI ecosystem.
+For `open-posix-test-suite`, this will be written as part of the forking process and will contain details about its role in the WASI ecosystem.
+
+The `libc-test` `README` will be updated to fulfil these criteria.
 
 ### Release Process
 
@@ -120,7 +127,7 @@ This will be written as part of the forking process and will contain details abo
 >
 > Automation makes fewer mistakes than humans, and getting releases right is critical, since only releases are typically used downstream, not random commits from `main`.
 
-The test suite will be pinned to a specific version in `wasi-libc` rather than having tagged releases, so this is not applicable.
+The test suites will be pinned to a specific version in `wasi-libc` rather than having tagged releases, so this is not applicable.
 
 ### Security Process
 
@@ -132,7 +139,7 @@ The test suite will be pinned to a specific version in `wasi-libc` rather than h
 >
 > Bytecode Alliance projects must be a secure foundation for others to build upon. Transparency and a managed security release process is key to being this foundation.
 
-The code for this repo will only be used in testing, not in production, and is aiming to help find vulnerabilities.
+The code for these repos will only be used in testing, not in production, and is aiming to help find vulnerabilities.
 
 ### Semantic Versioning
 
@@ -141,7 +148,7 @@ The code for this repo will only be used in testing, not in production, and is a
 > A clear versioning scheme is necessary for end-users. We desire consistency across projects and so the Bytecode Alliance has adopted semantic versioning as a required best practice.
 
 
-The test suite will be pinned to a specific version in `wasi-libc` rather than having tagged releases, so this is not applicable.
+The test suites will be pinned to a specific version in `wasi-libc` rather than having tagged releases, so this is not applicable.
 
 ### Secrets Management
 
@@ -166,7 +173,7 @@ No secrets required.
 >
 > Our mission of developing runtime environments and language toolchains where security, efficiency, and modularity can all coexist necessarily means that we have performed our due dilligence to mitigate software supply chain attacks.
 
-The Open POSIX test suite has no dependencies, and is unlikely to receive further upstream updates, so this should not be a problem.
+The Open POSIX test suite has no dependencies, and is unlikely to receive further upstream updates, so this should not be a problem. The same goes for `libc-test`.
 
 ### Sustainable Contributor Base
 
@@ -200,7 +207,7 @@ The project will be hosted on GitHub under https://github.com/BytecodeAlliance/o
 >
 > We are building an ecosystem that developers can depend on, and one small part of that is communicating important changes downstream.
 
-The test suite will be pinned to a specific version in `wasi-libc` rather than having tagged releases, so this is not applicable.
+The test suites will be pinned to a specific version in `wasi-libc` rather than having tagged releases, so this is not applicable.
 
 ### Continuous Fuzzing
 
@@ -214,7 +221,7 @@ The test suite will be pinned to a specific version in `wasi-libc` rather than h
 >
 > Continuous fuzzing is a valuable practice for projects, due to its significant benefits in improving security and reliability. Within the Bytecode Alliance, we host projects that provide a sandbox. The fidelity of these sandboxes must be battle-tested via a number of methodologies including automated fuzzing.
 
-This is a test suite, so could aid in fuzzing efforts.
+These are test suites, so could aid in fuzzing efforts.
 
 ### End-User Documentation
 
@@ -233,7 +240,7 @@ This is a test suite, so could aid in fuzzing efforts.
 >
 > Documentation is necessary for end-users to productively use the project; source code comments are not sufficient.
 
-The `wasi-libc` documentation will be updated on any additional steps required to build and run the tests in this repository, and the README will point to the build instructions for `wasi-libc`.
+The `wasi-libc` documentation will be updated on any additional steps required to build and run the tests in `open-posix-test-suite`, and the README will point to the build instructions for `wasi-libc`.
 
 ### Issue Triage Process
 
@@ -283,7 +290,7 @@ This test suite is also used by the [Emscripten project](https://github.com/emsc
 >
 > Public meetings encourage open communication, collaboration, and engagement within the project's community. Notes allow community members who were not present to remain aligned and can document any decisions made during the meeting.
 
-Since this fork would be essentially a sub-project of `wasi-libc`, any project meetings and notes would be handled as part of maintenance of `wasi-libc`. 
+Since these forks would be essentially a sub-project of `wasi-libc`, any project meetings and notes would be handled as part of maintenance of `wasi-libc`. 
 
 ### Sanitizers and Code Analysis
 
