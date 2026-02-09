@@ -102,6 +102,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Sharp, Jamey ([@jameysharp](https://github.com/jameysharp))
 * Silesmo, Timmy ([@silesmo](https://github.com/silesmo))
 * Sinclair, Rainy ([@itsrainy](https://github.com/itsrainy))
+* Smith, Gordon ([@GordonSmith](https://github.com/GordonSmith))
 * Spencer, Oscar ([@ospencer](https://github.com/ospencer))
 * Squillace, Ralph ([@squillace](https://github.com/squillace))
 * Stefan, Deian ([@deian](https://github.com/deian))
