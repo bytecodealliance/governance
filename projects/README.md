@@ -45,9 +45,9 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [WAC](https://github.com/bytecodealliance/wac)
  * [Waffle](https://github.com/bytecodealliance/waffle)
  * [wasi-libc-test-suites](https://github.com/bytecodealliance/governance/blob/main/projects/hosted/wasi-libc-test-suites.md)
-  * Repositories:
-    * [Open POSIX Test Suite](https://github.com/bytecodealliance/open-posix-test-suite)
-    * [libc-test](https://github.com/bytecodealliance/libc-test)
+    * Repositories:
+       * [Open POSIX Test Suite](https://github.com/bytecodealliance/open-posix-test-suite)
+       * [libc-test](https://github.com/bytecodealliance/libc-test)
  * [wasi-rs](https://github.com/bytecodealliance/wasi-rs)
  * [WASI-Virt](https://github.com/bytecodealliance/WASI-Virt)
  * [Wasm-micro-runtime](https://bytecodealliance.github.io/wamr.dev/)
