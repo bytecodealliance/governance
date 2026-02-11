@@ -70,3 +70,23 @@ Sightglass is a harness for running a set of benchmarks against WebAssembly runt
 best coverage of scenarios, Sightglass needs the ability to run as large a set of pre-existing
 benchmark test cases as possible. This requires being able to integrate code under a variety of
 licenses, as long as these licenses are compatible with the overall project licenses.
+
+## Libc-test
+
+The [`libc-test` project](https://github.com/bytecodealliance/libc-test/) has received
+approval to use the
+[MIT license](https://github.com/bytecodealliance/libc-test/blob/master/COPYRIGHT) for part or all of the codebase.
+
+### Motivation
+
+This project is a fork of the [`libc-test`](https://wiki.musl-libc.org/libc-test) testing suite for [musl libc](https://musl.libc.org/), which is licensed under the MIT license. The repository is used by [`wasi-libc`](https://github.com/WebAssembly/wasi-libc/) for purposes of automated testing only, and is not distributed along with releases of `wasi-libc`.
+
+## Open POSIX Test Suite
+
+The [Open POSIX Test Suite project](https://github.com/bytecodealliance/open-posix-test-suite/) has received
+approval to use the
+[GPL 2.0 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) for part or all of the codebase.
+
+### Motivation
+
+This project is a fork of the [Open POSIX Test Suite](https://posixtest.sourceforge.net/), which is licensed under the GPL 2.0 license. The repository is used by [`wasi-libc`](https://github.com/WebAssembly/wasi-libc/) for purposes of automated testing only, and is not distributed along with releases of `wasi-libc`.
