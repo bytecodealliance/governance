@@ -43,7 +43,7 @@ Requirement is fulfilled by way of opentelemetry-wasi striving to implement the 
 >
 > Having a code of conduct is crucial for creating a positive and respectful environment in any organization, community, or group. It serves as a set of guidelines that outline expected behavior and ethical standards for all members involved.
 
-CODE_OF_CONDUCT.md file will be added before the repository is transferred.
+Already part of the repository: https://github.com/calebschoepp/opentelemetry-wasi/blob/main/CODE_OF_CONDUCT.md
 
 ### Continuous Integration Testing
 
@@ -63,7 +63,7 @@ The project currently has a CI pipeline complete with both unit and integration 
 >
 > A `CONTRIBUTING.md` serves as a guide for potential contributors, outlining the expectations for individuals who wish to contribute to the project. The Bytecode Alliance is a community-driven software foundation and documents like `CONTRIBUTING.md` are necessary for fostering community contributions.
 
-CONTRIBUTING.md file will be added to before the repository is transferred.
+Already part of the repository: https://github.com/calebschoepp/opentelemetry-wasi/blob/main/CODE_OF_CONDUCT.md
 
 ### Following the Bytecode Alliance Operational Principles
 
@@ -98,7 +98,7 @@ Both @asteurer and @calebschoepp will adhere to the Bytecode Alliance Operationa
 >
 > We strive to build an open community and a legally-compatible software ecosystem.
 
-Repository currently has an Apache-2.0 WITH LLVM-exception license (see [license](https://github.com/calebschoepp/opentelemetry-wasi/blob/main/LICENSE))
+Already part of the repository: https://github.com/calebschoepp/opentelemetry-wasi/blob/main/LICENSE
 
 ### README
 
@@ -110,7 +110,7 @@ Repository currently has an Apache-2.0 WITH LLVM-exception license (see [license
 >
 > The most important information about the project should be "above the fold". Projects should identify themselves as Bytecode Alliance projects so that, with time, people associate the Bytecode Alliance with quality projects that they can rely on.
 
-Repository will have an updated README.md file before it is transferred.
+Already part of the repository: https://github.com/calebschoepp/opentelemetry-wasi/blob/main/README.md
 
 ### Release Process
 
@@ -167,7 +167,7 @@ This repository will never hardcode secrets in source code.
 >
 > Our mission of developing runtime environments and language toolchains where security, efficiency, and modularity can all coexist necessarily means that we have performed our due dilligence to mitigate software supply chain attacks.
 
-At some point in the near future, this repository will be broken up into language-specific repos. When this occurs, each SDK's repo will integrate the language-specific auditing tools to ensure supply chain security.
+Already part of the repository: https://github.com/calebschoepp/opentelemetry-wasi/blob/main/Justfile#L3
 
 ### Sustainable Contributor Base
 
