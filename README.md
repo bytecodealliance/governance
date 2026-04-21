@@ -18,6 +18,7 @@ The Bytecode Alliance's governance and processes are defined in a variety of gov
 - The [Code of Conduct](./CODE_OF_CONDUCT.md) describes the expected conduct in our community
 - The [Project License](./PROJECT_LICENSE) describes the default license the Bytecode Alliance uses, with exceptions listed [here](./projects/license-exceptions/README.md)
 - The [communication](./communication.md) document lays out tequirements and guidelines for how to communicate as a Bytecode Alliance participant
+- The [AI tools policy](./AI_TOOL_POLICY.md) document lays out the  Alliance's policy on use of AI tools
 
 ## Recognized Contributors
 
