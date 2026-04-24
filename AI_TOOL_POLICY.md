@@ -6,7 +6,7 @@ The Alliance's policy is that contributors can use whatever tools they would lik
 
 We expect that new contributors will be less confident in their contributions, and our guidance to them is to start with small contributions that they can fully understand to build confidence. We aspire to be a welcoming community that helps new contributors grow their expertise, but learning involves taking small steps, getting feedback, and iterating. Passing maintainer feedback to an LLM doesn’t help anyone grow, and does not sustain our community.
 
-Contributors are expected to be transparent and label contributions that contain substantial amounts of tool-generated content. Our policy on labelling is intended to facilitate reviews, and not to track which parts of LLVM are generated. Contributors should note tool usage in their pull request description, commit message, or wherever authorship is normally indicated for the work. For instance, use a commit message trailer like `Assisted-by: <tool>:<model>`. This transparency helps the community develop best practices and understand the role of these new tools.
+Contributors are expected to be transparent and label contributions that contain substantial amounts of tool-generated content. Our policy on labelling is intended to facilitate reviews, and not to track which parts of Bytecode Alliance projects are generated. Contributors should note tool usage in their pull request description, commit message, or wherever authorship is normally indicated for the work. For instance, use a commit message trailer like `Assisted-by: <tool>:<model>`. This transparency helps the community develop best practices and understand the role of these new tools.
 
 This policy includes, but is not limited to, the following kinds of contributions:
  - Code, usually in the form of a pull request
@@ -24,7 +24,7 @@ AI tools must not be used to fix GitHub issues labelled good first issue. These 
 
 ## Extractive Contributions
 
-The reason for our “human-in-the-loop” contribution policy is that processing patches, PRs, RFCs, and comments to LLVM is not free – it takes a lot of maintainer time and energy to review those contributions! Sending the unreviewed output of an LLM to open source project maintainers extracts work from them in the form of design and code review, so we call this kind of contribution an “extractive contribution”.
+The reason for our “human-in-the-loop” contribution policy is that processing patches, PRs, RFCs, and comments to Bytecode Alliance projects is not free – it takes a lot of maintainer time and energy to review those contributions! Sending the unreviewed output of an LLM to open source project maintainers extracts work from them in the form of design and code review, so we call this kind of contribution an “extractive contribution”.
 
 Our **golden rule** is that a contribution should be worth more to the project than the time it takes to review it. These ideas are captured by this quote from the book [Working in Public](https://press.stripe.com/working-in-public) by Nadia Eghbal:
 
