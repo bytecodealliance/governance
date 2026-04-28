@@ -98,6 +98,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Rodrigues, Eduardo ([@eduardomourar](https://github.com/eduardomourar))
 * Ruppel, Emily ([@kangaruppel](https://github.com/kangaruppel))
 * Schneidereit, Till ([@tschneidereit](https://github.com/tschneidereit))
+* Schoepp, Caleb ([@calebschoepp](https://github.com/calebschoepp))
 * Schoettler, Steve ([@stevelr](https://github.com/stevelr))
 * Sharp, Jamey ([@jameysharp](https://github.com/jameysharp))
 * Silesmo, Timmy ([@silesmo](https://github.com/silesmo))
