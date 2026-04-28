@@ -54,7 +54,9 @@ Artificial intelligence systems raise many questions around copyright that have 
 
 ## Exceptions
 
-Project maintainers might identify use cases for AI tools that don't fit this policy, such as fully automated reviews run as part of a CI pipeline. In such a case, maintainers should reach out to the TSC, e.g. using a Pull Request updating this section to list their use as an exception. The TSC will consider the use case and either approve it or provide feedback.
+While this policy captures the general rules on using AI tools in the Bytecode Alliance, there are circumstances in which a more nuanced approach is needed. The TSC, under whose purview this policy falls, might grant exceptions expliclity, or implicitly allow practices to continue that don't fully align with the requirements described here.
+
+Project maintainers who identify use cases for AI tools that don't fit this policy, such as fully automated reviews run as part of a CI pipeline, are encouraged to reach out to the TSC to seek clarification. The TSC will provide feedback and might suggest changes to the intended practices. In approving a practice, the TSC might choose to explicitly document an exception granted to a project, but might also communicate to the project that it'll allow the project's intended practices without further documentation.
 
 ## Examples
 
