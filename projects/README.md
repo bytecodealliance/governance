@@ -30,6 +30,8 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [go-modules](https://github.com/bytecodealliance/go-modules)
  * [Javy](https://github.com/bytecodealliance/javy)
  * [jco](https://github.com/bytecodealliance/jco)
+   * Additional Repositories:
+     * [jco-tranpsile](https://github.com/bytecodealliance/jco/tree/main/packages/jco-transpile)
  * [regalloc2](https://github.com/bytecodealliance/regalloc2)
  * [Warg](https://github.com/bytecodealliance/registry)
  * [rust-oci-wasm](https://github.com/bytecodealliance/rust-oci-wasm)
