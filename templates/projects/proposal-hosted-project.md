@@ -195,7 +195,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 
 > The Bytecode Alliance should own and manage any identity-related aspects of the project including but not limited to project name, trademarks, social media channels, web pages, and internet domain(s).
 
-TODO: affirmation that the project's name and realted assets can be transferred to and owned by the Bytecode Alliance and supporting evidence (list of all such identity-related assets with details of ownership).
+TODO: affirmation that the project's name and related assets can be transferred to and owned by the Bytecode Alliance and supporting evidence (list of all such identity-related assets with details of ownership).
 
 ## Recommendations
 
