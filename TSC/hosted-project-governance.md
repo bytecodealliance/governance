@@ -18,7 +18,7 @@ Further, the TSC charter lists these requirements for Hosted Projects:
 * Good software development (pull requests, issue maintenance) and security practices (reporting, responding to issues)
 * Including compliance with the BA’s security policies
 * Under active development or maintenance
-* BA ownership of name/trademark/social media channels, etc
+* BA ownership of name/trademark/social media channels, internet domain(s), etc
 
 Additional details on Core and Hosted Project [requirements](https://github.com/bytecodealliance/governance/blob/main/TSC/core-and-hosted-projects.md) along with templates for proposing adoption are documented in the [TSC](https://github.com/bytecodealliance/governance/tree/main/TSC) portion of the Bytecode Alliance governance [repository](https://github.com/bytecodealliance/governance/tree/main).
 
