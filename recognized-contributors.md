@@ -36,6 +36,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Dice, Joel ([@dicej](https://github.com/dicej))
 * Elliott, Trevor ([@elliottt](https://github.com/elliottt))
 * Ene, Alexandru ([@AlexEne](https://github.com/AlexEne))
+* Evans, Martin ([@martindevans](https://github.com/martindevans))
 * Fallin, Chris ([@cfallin](https://github.com/cfallin))
 * Fitzgerald, Nick ([@fitzgen](https://github.com/fitzgen))
 * Foltzer, Adam ([@acfoltzer](https://github.com/acfoltzer))
