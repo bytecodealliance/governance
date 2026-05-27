@@ -27,6 +27,7 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS)
  * [componentize-py](https://github.com/bytecodealliance/componentize-py)
  * [Cranelift](https://cranelift.dev/)
+ * [Endive](https://endive.run/)
  * [go-modules](https://github.com/bytecodealliance/go-modules)
  * [Javy](https://github.com/bytecodealliance/javy)
  * [jco](https://github.com/bytecodealliance/jco)
