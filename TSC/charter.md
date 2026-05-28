@@ -142,7 +142,7 @@ By default, a project adopted by the BA is considered a Hosted Project. The BA b
 
 * Under active development or maintenance
 
-* BA ownership of name/trademark/social media channels, etc
+* BA ownership of name/trademark/social media channels, internet domain(s), etc
 
 ## Hosted Project Review
 
