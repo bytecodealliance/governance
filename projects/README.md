@@ -52,12 +52,6 @@ This directory acts as an overview of the projects that the Alliance hosts.
        * [libc-test](https://github.com/bytecodealliance/libc-test)
  * [wasi-rs](https://github.com/bytecodealliance/wasi-rs)
  * [WASI-Virt](https://github.com/bytecodealliance/WASI-Virt)
- * [Wasm-micro-runtime](https://bytecodealliance.github.io/wamr.dev/)
-   * Repositories:
-     * [wamr-app-framework](https://github.com/bytecodealliance/wamr-app-framework)
-     * [wamr-python](https://github.com/bytecodealliance/wamr-python)
-     * [wamr-rust-sdk](https://github.com/bytecodealliance/wamr-rust-sdk)
-     * [wamr.dev](https://github.com/bytecodealliance/wamr.dev)
  * [wasm-pkg-tools](https://github.com/bytecodealliance/wasm-pkg-tools)
  * [wasm-tools](https://github.com/bytecodealliance/wasm-tools)
  * [weval](https://github.com/bytecodealliance/weval)
