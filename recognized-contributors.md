@@ -20,6 +20,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Bouvier, Benjamin ([@bnjbvr](https://github.com/bnjbvr))
 * Brand, Sy ([@TartanLlama](https://github.com/TartanLlama))
 * Brandt, Ben ([@benbrandt](https://github.com/benbrandt))
+* Bratschi-Kaye, Adam ([@adamrk](https://github.com/adamrk))
 * Brown, Andrew ([@abrown](https://github.com/abrown))
 * Brown, Robin ([@esoterra](https://github.com/esoterra))
 * Butcher, Matt ([@technosophos](https://github.com/technosophos))
