@@ -19,7 +19,6 @@ This directory acts as an overview of the projects that the Alliance hosts.
 
 ## Hosted Projects
 
- * [cap-std](https://github.com/bytecodealliance/cap-std)
  * [cargo-component](https://github.com/bytecodealliance/cargo-component)
  * [cargo-wasi](https://github.com/bytecodealliance/cargo-wasi)
  * [componentize-dotnet](https://github.com/bytecodealliance/componentize-dotnet/)
