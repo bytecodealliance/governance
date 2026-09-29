@@ -39,7 +39,6 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [StarlingMonkey](https://github.com/bytecodealliance/StarlingMonkey)
    * Additional Repositories:
      * [spidermonkey-wasi-embedding](https://github.com/bytecodealliance/spidermonkey-wasi-embedding)
- * [system-interface](https://github.com/bytecodealliance/system-interface)
  * [target-lexicon](https://github.com/bytecodealliance/target-lexicon)
  * [tree-sitter-wit](https://github.com/bytecodealliance/tree-sitter-wit)
  * [VSCode-WIT](https://github.com/bytecodealliance/vscode-wit)
