@@ -133,6 +133,7 @@ Format of entries: `Surname, First name (GitHub Username)`. When it is tradition
 * Winstein, Keith ([keithw](https://github.com/keithw))
 * Wu Zhongmin ([@sophy228](https://github.com/sophy228))
 * Wuyts, Yosh ([@yoshuawuyts](https://github.com/yoshuawuyts))
+* Xia Chao ([@xia-chao](https://github.com/xia-chao))
 * Xu Jun ([@xujuntwt95329](https://github.com/xujuntwt95329))
 * Xu, Xinzhao ([@iawia002](https://github.com/iawia002))
 * Xu Xiong ([@venus-taibai](https://github.com/venus-taibai))
