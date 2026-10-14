@@ -8,7 +8,7 @@ The Bytecode Alliance holds itself and its projects, whether hosted or core, to 
 
 Core projects are the Bytecode Alliance's flagships and are held to an even higher standard than hosted projects. In return, core projects are prominently advertised on the Bytecode Alliance webpage and can elect a delegate to the Bytecode Alliance's Technical Steering Committee, as per [the TSC charter](https://github.com/bytecodealliance/governance/blob/main/TSC/charter.md#composition).
 
-Note that it is expected that most hosted projects will not become core projects, even if they satisfy the [technical requirements of core projects](../.github/ISSUE_TEMPLATE/core-project.md). Core project status is reserved for projects of exceptional strategic value to the Bytecode Alliance in the fulfillment of its mission. These projects typically have the following qualities:
+Note that it is expected that most hosted projects will not become core projects, even if they satisfy the [technical requirements of core projects](../templates/projects/proposal-core-project.md). Core project status is reserved for projects of exceptional strategic value to the Bytecode Alliance in the fulfillment of its mission. These projects typically have the following qualities:
 
 * End-user facing and widely adopted
 * Under active development and have long-term roadmaps

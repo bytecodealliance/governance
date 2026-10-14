@@ -19,16 +19,18 @@ This directory acts as an overview of the projects that the Alliance hosts.
 
 ## Hosted Projects
 
- * [cap-std](https://github.com/bytecodealliance/cap-std)
  * [cargo-component](https://github.com/bytecodealliance/cargo-component)
  * [cargo-wasi](https://github.com/bytecodealliance/cargo-wasi)
  * [componentize-dotnet](https://github.com/bytecodealliance/componentize-dotnet/)
+ * [componentize-go](https://github.com/bytecodealliance/componentize-go)
  * [ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS)
  * [componentize-py](https://github.com/bytecodealliance/componentize-py)
  * [Cranelift](https://cranelift.dev/)
+ * [Endive](https://endive.run/)
  * [go-modules](https://github.com/bytecodealliance/go-modules)
  * [Javy](https://github.com/bytecodealliance/javy)
  * [jco](https://github.com/bytecodealliance/jco)
+ * [opentelemetry-wasi](https://github.com/bytecodealliance/opentelemetry-wasi)
  * [regalloc2](https://github.com/bytecodealliance/regalloc2)
  * [Warg](https://github.com/bytecodealliance/registry)
  * [rust-oci-wasm](https://github.com/bytecodealliance/rust-oci-wasm)
@@ -37,19 +39,17 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [StarlingMonkey](https://github.com/bytecodealliance/StarlingMonkey)
    * Additional Repositories:
      * [spidermonkey-wasi-embedding](https://github.com/bytecodealliance/spidermonkey-wasi-embedding)
- * [system-interface](https://github.com/bytecodealliance/system-interface)
  * [target-lexicon](https://github.com/bytecodealliance/target-lexicon)
+ * [tree-sitter-wit](https://github.com/bytecodealliance/tree-sitter-wit)
  * [VSCode-WIT](https://github.com/bytecodealliance/vscode-wit)
  * [WAC](https://github.com/bytecodealliance/wac)
  * [Waffle](https://github.com/bytecodealliance/waffle)
+ * [wasi-libc-test-suites](https://github.com/bytecodealliance/governance/blob/main/projects/hosted/wasi-libc-test-suites.md)
+    * Repositories:
+       * [Open POSIX Test Suite](https://github.com/bytecodealliance/open-posix-test-suite)
+       * [libc-test](https://github.com/bytecodealliance/libc-test)
  * [wasi-rs](https://github.com/bytecodealliance/wasi-rs)
  * [WASI-Virt](https://github.com/bytecodealliance/WASI-Virt)
- * [Wasm-micro-runtime](https://bytecodealliance.github.io/wamr.dev/)
-   * Repositories:
-     * [wamr-app-framework](https://github.com/bytecodealliance/wamr-app-framework)
-     * [wamr-python](https://github.com/bytecodealliance/wamr-python)
-     * [wamr-rust-sdk](https://github.com/bytecodealliance/wamr-rust-sdk)
-     * [wamr.dev](https://github.com/bytecodealliance/wamr.dev)
  * [wasm-pkg-tools](https://github.com/bytecodealliance/wasm-pkg-tools)
  * [wasm-tools](https://github.com/bytecodealliance/wasm-tools)
  * [weval](https://github.com/bytecodealliance/weval)
@@ -57,6 +57,7 @@ This directory acts as an overview of the projects that the Alliance hosts.
  * [wit-deps](https://github.com/bytecodealliance/wit-deps)
  * [Wizer](https://github.com/bytecodealliance/wizer)
  * [wRPC](https://github.com/bytecodealliance/wrpc)
+ * [wstd](https://github.com/bytecodealliance/wstd)
 
 ## Archived Projects
 
